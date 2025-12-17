@@ -51,7 +51,7 @@
 
 | 模组名称 | Workshop ID | 链接 | Mod ID | 版本 | 状态 |
 |---------|------------|------|--------|------|------|
-| CleanUI Patch for B42.13 | 3623352001 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3623352001) | CleanUI_B42_13 | - | ✅ 兼容B42.13 |
+| CleanUI Patch for B42.13 | 3623352001 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3623352001) | CleanUI_B42_13 | - | ❌ 会导致崩溃 |
 
 **补丁详情**
 
@@ -59,6 +59,7 @@
 
 - **功能**：重新激活CleanUI对B42.13的兼容性
 - **注意**：
+  - ❌ **当前版本会导致游戏崩溃，建议等待更新**
   - 基本上未经测试，如发现问题需提供重现步骤和console.txt提取内容
   - 一旦原版CleanUI更新，此补丁将被禁用
   - 根据Lockdown协议，此模组无法被除Rocco和作者外的任何人修改
@@ -184,13 +185,14 @@
 5. 在游戏中设置阅读速度（沙盒选项中调整）
 6. 开始游戏并享受无错误的行走阅读体验
 
-### CleanUI 界面优化（原版 + 补丁）
+### CleanUI 界面优化（原版）
 
 1. 订阅原版"[B42]CleanUI V2.2"模组 (ID: 3437629766)
-2. 订阅"CleanUI Patch for B42.13"补丁 (ID: 3623352001)
-3. 启动Project Zomboid
-4. 在模组列表中启用这两个模组（确保补丁加载在原版之后）
-5. 根据个人需求，使用ModOptions界面调整CleanUI设置
+2. 启动Project Zomboid
+3. 在模组列表中启用该模组
+4. 根据个人需求，使用ModOptions界面调整CleanUI设置
+
+**注意**: B42.13兼容性补丁当前会导致游戏崩溃，建议等待作者更新后再使用补丁。
 
 ### Fruits in jars 水果罐头
 
