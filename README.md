@@ -50,6 +50,7 @@ Akyrohunter创作的一系列高质量的"传说"(Legendary)系列模组，为Pr
 |---------|------------|------|------|------|
 | Read While Walking (原版) | 2845952197 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=2845952197) | 实用工具 | ⚠️ B42.13有问题 |
 | Simple Read While Walking 42.13+ compatibility patch | 3625232801 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3625232801) | 修复补丁 | ✅ 兼容B42.13 |
+| [B42.13] Fruits in jars | 3432006285 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3432006285) | 食物/储藏 | ✅ 兼容B42.13 |
 
 [查看更多常识类模组](./common-sense/README.md)
 
