@@ -10,6 +10,7 @@
   - [武器类模组](./legendary-series/weapons/README.md)
   - [背包和容器类模组](./legendary-series/containers/README.md)
   - [服装/配饰类模组](./legendary-series/clothing/README.md)
+- [常识类模组](./common-sense/README.md) - 提高游戏体验的常识/生活质量模组
 - [模组使用指南](./mods.md) - 如何订阅和使用这些模组
 
 ## 🌟 传说系列模组
@@ -40,6 +41,17 @@ Akyrohunter创作的一系列高质量的"传说"(Legendary)系列模组，为Pr
 5. **多语言支持**：支持多种语言，包括英语、西班牙语、德语、法语、俄语、韩语、泰语、中文等
 6. **材质系统**：物品具有粗糙、精制和传说三种材质等级
 7. **维护系统**：可以使用合适的工具进行修复和维护
+
+## 🧠 常识类模组
+
+这些模组提供了使游戏体验更符合现实逻辑的改进和修复：
+
+| 模组名称 | Workshop ID | 链接 | 类别 | 状态 |
+|---------|------------|------|------|------|
+| Read While Walking (原版) | 2845952197 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=2845952197) | 实用工具 | ⚠️ B42.13有问题 |
+| Simple Read While Walking 42.13+ compatibility patch | 3625232801 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3625232801) | 修复补丁 | ✅ 兼容B42.13 |
+
+[查看更多常识类模组](./common-sense/README.md)
 
 ## 🚀 如何使用这些模组
 
@@ -77,6 +89,8 @@ Akyrohunter创作的一系列高质量的"传说"(Legendary)系列模组，为Pr
 project-zomboid-mods/
 ├── README.md                  # 项目主页
 ├── mods.md                    # 模组使用指南
+├── common-sense/              # 常识类模组
+│   └── README.md              # 贴合现实的改进和修复
 └── legendary-series/          # 传说系列模组文档
     ├── README.md              # 传说系列主页
     ├── weapons/               # 武器类模组
