@@ -62,6 +62,13 @@ Akyrohunter创作的一系列高质量的"传说"(Legendary)系列模组，为Pr
 
 本项目采用MIT许可证 - 详见LICENSE文件。
 
+## 💬 加入社区
+
+有兴趣讨论Project Zomboid游戏内容或观看直播？欢迎加入我们的Discord社区：
+**[加入我们的Discord - 游戏直播讨论](https://discord.gg/BNNHuAyn)**
+
+*注意：此Discord频道主要用于游戏直播讨论，而非专门针对模组。*
+
 ---
 
 ## 📂 项目文件
