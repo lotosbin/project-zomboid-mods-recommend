@@ -53,6 +53,7 @@ Akyrohunter创作的一系列高质量的"传说"(Legendary)系列模组，为Pr
 | [B42]CleanUI V2.2 (原版) | 3437629766 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3437629766) | 界面优化 | ⚠️ B42.13有问题 |
 | CleanUI Patch for B42.13 | 3623352001 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3623352001) | 修复补丁 | ❌ 会导致崩溃 |
 | [B42.13] Fruits in jars | 3432006285 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3432006285) | 食物/储藏 | ✅ 兼容B42.13 |
+| Fast Forward (MP) - Build 42 | 3623959321 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3623959321) | 时间管理 | ✅ 兼容B42.13 |
 
 [查看更多常识类模组](./common-sense/README.md)
 
