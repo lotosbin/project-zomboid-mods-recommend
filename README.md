@@ -11,6 +11,7 @@
   - [背包和容器类模组](./legendary-series/containers/README.md)
   - [服装/配饰类模组](./legendary-series/clothing/README.md)
 - [常识类模组](./common-sense/README.md) - 提高游戏体验的常识/生活质量模组
+- [界面增强类模组](./interface-enhancement/README.md) - UI/UX改进和优化模组
 - [模组使用指南](./mods.md) - 如何订阅和使用这些模组
 
 ## 🌟 传说系列模组
@@ -50,12 +51,22 @@ Akyrohunter创作的一系列高质量的"传说"(Legendary)系列模组，为Pr
 |---------|------------|------|------|------|
 | Read While Walking (原版) | 2845952197 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=2845952197) | 实用工具 | ⚠️ B42.13有问题 |
 | Simple Read While Walking 42.13+ compatibility patch | 3625232801 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3625232801) | 修复补丁 | ✅ 兼容B42.13 |
-| [B42]CleanUI V2.2 (原版) | 3437629766 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3437629766) | 界面优化 | ⚠️ B42.13有问题 |
-| CleanUI Patch for B42.13 | 3623352001 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3623352001) | 修复补丁 | ❌ 会导致崩溃 |
 | [B42.13] Fruits in jars | 3432006285 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3432006285) | 食物/储藏 | ✅ 兼容B42.13 |
 | Fast Forward (MP) - Build 42 | 3623959321 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3623959321) | 时间管理 | ✅ 兼容B42.13 |
 
 [查看更多常识类模组](./common-sense/README.md)
+
+## 🖥️ 界面增强类模组
+
+这些模组专注于改进Project Zomboid的用户界面(UI)和交互体验：
+
+| 模组名称 | Workshop ID | 链接 | 类别 | 状态 |
+|---------|------------|------|------|------|
+| [B42]CleanUI V2.2 (原版) | 3437629766 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3437629766) | 界面优化 | ⚠️ B42.13有问题 |
+| CleanUI Patch for B42.13 | 3623352001 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3623352001) | 修复补丁 | ❌ 会导致崩溃 |
+| Smart Radial Menu | 3494108029 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3494108029) | 交互优化 | ✅ 兼容B42.13 |
+
+[查看更多界面增强模组](./interface-enhancement/README.md)
 
 ## 🚀 如何使用这些模组
 
@@ -95,6 +106,8 @@ project-zomboid-mods/
 ├── mods.md                    # 模组使用指南
 ├── common-sense/              # 常识类模组
 │   └── README.md              # 贴合现实的改进和修复
+├── interface-enhancement/     # 界面增强类模组
+│   └── README.md              # UI/UX改进和优化
 └── legendary-series/          # 传说系列模组文档
     ├── README.md              # 传说系列主页
     ├── weapons/               # 武器类模组
