@@ -64,4 +64,4 @@
 
 ---
 
-**[← 返回项目主页](README.md)** | **[界面增强类模组详情](./interface-enhancement/README.md)** | **[常识类模组详情](./common-sense/README.md)** | **[传说系列模组详情](./legendary-series/README.md)**
+**[← 返回项目主页](README.md)** | **[界面增强类模组详情](./interface-enhancement/README.md)** | **[常识类模组详情](./common-sense/README.md)** | **[农业/生物类模组详情](./farming/README.md)** | **[传说系列模组详情](./legendary-series/README.md)**
