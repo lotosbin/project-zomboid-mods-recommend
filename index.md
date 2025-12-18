@@ -7,6 +7,7 @@
 - [传说系列模组](#-传说系列模组)
 - [界面增强类模组](#-界面增强类模组)
 - [农业/生物类模组](#-农业生物类模组)
+- [本地化和修复类模组](#-本地化和修复类模组)
 - [常识类模组](#-常识类模组)
 
 ## ⚔️ 传说系列模组
@@ -53,6 +54,15 @@
 | [B42]ShelterHold : Beehive | 3596827035 | 蜜蜂养殖 | ⚠️ B42.13需要补丁 |
 | ShelterHold : Beehive Patch for B42.13 | 3625028417 | 修复补丁 | ✅ 兼容B42.13 |
 
+## 🌐 本地化和修复类模组
+
+| 模组名称 | Workshop ID | 类别 | 状态 |
+|---------|-------------|------|------|
+| [B42.13] SimpleStatus-Fixed | 3622457795 | UI修复 | ⚠️ B42.12版本 |
+| B42简体中文修复 | 3386522562 | 中文本地化 | ✅ 兼容B42.13 |
+| [B42]统一·中文汉化 | 3556544454 | 中文本地化 | ✅ 兼容B42.13 |
+| [B42]统一·模组汉化 | 3556540080 | 模组本地化 | ✅ 兼容B42.13 |
+
 ## 🧠 常识类模组
 
 | 模组名称 | Workshop ID | 类别 | 状态 |
@@ -64,4 +74,4 @@
 
 ---
 
-**[← 返回项目主页](README.md)** | **[界面增强类模组详情](./interface-enhancement/README.md)** | **[常识类模组详情](./common-sense/README.md)** | **[农业/生物类模组详情](./farming/README.md)** | **[传说系列模组详情](./legendary-series/README.md)**
+**[← 返回项目主页](README.md)** | **[界面增强类模组详情](./interface-enhancement/README.md)** | **[常识类模组详情](./common-sense/README.md)** | **[农业/生物类模组详情](./farming/README.md)** | **[本地化和修复类模组详情](./localization-and-patches/README.md)** | **[项目模组合集](./collection/README.md)** | **[传说系列模组详情](./legendary-series/README.md)**

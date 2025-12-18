@@ -5,6 +5,12 @@
 
 目前主要包含Akyrohunter的"传说系列"模组详细文档，这些模组为游戏添加了各种传说级别的物品和装备。
 
+## 🎯 项目模组合集
+
+本项目的核心参考模组合集为 **[bin^2的B42.13合集](https://steamcommunity.com/sharedfiles/filedetails/?id=3624259825)**，这是一个精心挑选的B42.13兼容模组集合，包含23个高质量的模组，涵盖了界面增强、本地化、兼容性修复等多个类别。
+
+定期从该合集更新模组信息，确保文档始终反映最新的模组版本和兼容性状态。
+
 ## 📁 目录结构
 
 - [传说系列模组](./legendary-series/README.md) - Akyrohunter创作的高质量传说系列模组
@@ -15,6 +21,8 @@
 - [常识类模组](./common-sense/README.md) - 提高游戏体验的常识/生活质量模组
 - [界面增强类模组](./interface-enhancement/README.md) - UI/UX改进和优化模组
 - [农业/生物类模组](./farming/README.md) - 农业、养殖和生物资源管理模组
+- [本地化和修复类模组](./localization-and-patches/README.md) - 语言本地化、兼容性补丁和问题修复
+- [项目模组合集](./collection/README.md) - 核心参考的B42.13模组合集
 - [模组使用指南](./mods.md) - 如何订阅和使用这些模组
 
 ## 🌟 传说系列模组
@@ -89,6 +97,19 @@ Akyrohunter创作的一系列高质量的"传说"(Legendary)系列模组，为Pr
 
 [查看更多农业/生物类模组](./farming/README.md)
 
+## 🌐 本地化和修复类模组
+
+这些模组专注于改进Project Zomboid的本地化支持和修复游戏中的问题，提供语言翻译和兼容性补丁，让玩家的游戏体验更加稳定和适合本地玩家。
+
+| 模组名称 | Workshop ID | 链接 | 类别 | 状态 |
+|---------|------------|------|------|------|
+| [B42.13] SimpleStatus-Fixed | 3622457795 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3622457795) | UI修复 | ⚠️ B42.12版本 |
+| B42简体中文修复 | 3386522562 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3386522562) | 中文本地化 | ✅ 兼容B42.13 |
+| [B42]统一·中文汉化 | 3556544454 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3556544454) | 中文本地化 | ✅ 兼容B42.13 |
+| [B42]统一·模组汉化 | 3556540080 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3556540080) | 模组本地化 | ✅ 兼容B42.13 |
+
+[查看更多本地化和修复类模组](./localization-and-patches/README.md)
+
 ## 🚀 如何使用这些模组
 
 1. 从上面的分类页面找到您感兴趣的模组
@@ -128,6 +149,7 @@ project-zomboid-mods/
 ├── common-sense/              # 常识类模组
 │   └── README.md              # 贴合现实的改进和修复
 ├── interface-enhancement/     # 界面增强类模组
+├── collection/                # 模组合集
 │   └── README.md              # UI/UX改进和优化
 └── legendary-series/          # 传说系列模组文档
     ├── README.md              # 传说系列主页
