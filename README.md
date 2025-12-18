@@ -12,11 +12,11 @@
 定期从该合集更新模组信息，确保文档始终反映最新的模组版本和兼容性状态。
 
 ## 📁 目录结构
+- [模组速览](./index.md) - 快速浏览所有收录模组
 
 - [传说系列模组](./legendary-series/README.md) - Akyrohunter创作的高质量传说系列模组
   - [武器类模组](./legendary-series/weapons/README.md)
   - [背包和容器类模组](./legendary-series/containers/README.md)
-- [模组速览](./index.md) - 快速浏览所有收录模组
   - [服装/配饰类模组](./legendary-series/clothing/README.md)
 - [常识类模组](./common-sense/README.md) - 提高游戏体验的常识/生活质量模组
 - [界面增强类模组](./interface-enhancement/README.md) - UI/UX改进和优化模组
