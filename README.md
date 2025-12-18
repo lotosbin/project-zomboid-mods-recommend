@@ -10,6 +10,7 @@
 - [传说系列模组](./legendary-series/README.md) - Akyrohunter创作的高质量传说系列模组
   - [武器类模组](./legendary-series/weapons/README.md)
   - [背包和容器类模组](./legendary-series/containers/README.md)
+- [模组速览](./index.md) - 快速浏览所有收录模组
   - [服装/配饰类模组](./legendary-series/clothing/README.md)
 - [常识类模组](./common-sense/README.md) - 提高游戏体验的常识/生活质量模组
 - [界面增强类模组](./interface-enhancement/README.md) - UI/UX改进和优化模组
@@ -72,6 +73,7 @@ Akyrohunter创作的一系列高质量的"传说"(Legendary)系列模组，为Pr
 | [B42]Project Cook (New)V1.0 | 3490188370 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3490188370) | 烹饪界面 | ✅ 兼容B42.13 |
 | [B42]ModernStatus V2.0 | 3451167732 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3451167732) | 状态指示器 | ✅ 兼容B42.13 |
 | Neat Crafting & Neat Building - Addon XP Display | 3540503606 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3540503606) | 经验值显示 | ✅ 兼容B42.13 |
+| [b42]The Shortcut | 3470659758 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3470659758) | 快捷工具栏 | ✅ 兼容B42.13 |
 
 [查看更多界面增强模组](./interface-enhancement/README.md)
 
