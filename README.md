@@ -14,6 +14,7 @@
   - [服装/配饰类模组](./legendary-series/clothing/README.md)
 - [常识类模组](./common-sense/README.md) - 提高游戏体验的常识/生活质量模组
 - [界面增强类模组](./interface-enhancement/README.md) - UI/UX改进和优化模组
+- [农业/生物类模组](./farming/README.md) - 农业、养殖和生物资源管理模组
 - [模组使用指南](./mods.md) - 如何订阅和使用这些模组
 
 ## 🌟 传说系列模组
@@ -76,6 +77,17 @@ Akyrohunter创作的一系列高质量的"传说"(Legendary)系列模组，为Pr
 | [b42]The Shortcut | 3470659758 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3470659758) | 快捷工具栏 | ✅ 兼容B42.13 |
 
 [查看更多界面增强模组](./interface-enhancement/README.md)
+
+## 🌾 农业/生物类模组
+
+这些模组专注于增强Project Zomboid的农业系统和生物资源管理，为玩家提供更丰富的食物来源和养殖体验，让末日生存更加多样化。
+
+| 模组名称 | Workshop ID | 链接 | 类别 | 状态 |
+|---------|------------|------|------|------|
+| [B42]ShelterHold : Beehive | 3596827035 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3596827035) | 蜜蜂养殖 | ⚠️ B42.13需要补丁 |
+| ShelterHold : Beehive Patch for B42.13 | 3625028417 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3625028417) | 修复补丁 | ✅ 兼容B42.13 |
+
+[查看更多农业/生物类模组](./farming/README.md)
 
 ## 🚀 如何使用这些模组
 
