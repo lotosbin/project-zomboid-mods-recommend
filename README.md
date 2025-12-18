@@ -65,6 +65,7 @@ Akyrohunter创作的一系列高质量的"传说"(Legendary)系列模组，为Pr
 | [B42]CleanUI V2.2 (原版) | 3437629766 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3437629766) | 界面优化 | ⚠️ B42.13有问题 |
 | CleanUI Patch for B42.13 | 3623352001 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3623352001) | 修复补丁 | ❌ 会导致崩溃 |
 | Smart Radial Menu | 3494108029 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3494108029) | 交互优化 | ✅ 兼容B42.13 |
+| [B42]Clean HotBar v1.8 | 3461263912 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3461263912) | 快捷栏优化 | ✅ 兼容B42.13 |
 
 [查看更多界面增强模组](./interface-enhancement/README.md)
 
