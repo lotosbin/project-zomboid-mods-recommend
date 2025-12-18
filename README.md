@@ -66,6 +66,10 @@ Akyrohunter创作的一系列高质量的"传说"(Legendary)系列模组，为Pr
 | CleanUI Patch for B42.13 | 3623352001 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3623352001) | 修复补丁 | ❌ 会导致崩溃 |
 | Smart Radial Menu | 3494108029 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3494108029) | 交互优化 | ✅ 兼容B42.13 |
 | [B42]Clean HotBar v1.8 | 3461263912 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3461263912) | 快捷栏优化 | ✅ 兼容B42.13 |
+| [B42]Neat Crafting V1.5 | 3502080466 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3502080466) | 制作界面 | ⚠️ B42.13需要补丁 |
+| [B42]Neat Building + More Buildings V1.4 | 3536052310 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3536052310) | 建造界面 | ⚠️ B42.13需要补丁 |
+| [B42]Project Cook (New)V1.0 | 3490188370 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3490188370) | 烹饪界面 | ✅ 兼容B42.13 |
+| [B42]ModernStatus V2.0 | 3451167732 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3451167732) | 状态指示器 | ✅ 兼容B42.13 |
 
 [查看更多界面增强模组](./interface-enhancement/README.md)
 
