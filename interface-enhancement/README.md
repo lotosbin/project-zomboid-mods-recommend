@@ -135,7 +135,7 @@
 - **订阅量**：174,196
 - **收藏量**：6,702
 
-- **注意**：B42.13版本需要Neat Crafting Patch for B42.13 (ID: 3623287625)才能正常工作
+- **注意**：B42.13版本需要Neat Crafting & Neat Building - Addon XP Display模组才能正常工作
 
 #### [B42]Neat Building + More Buildings V1.4 整洁建造界面
 
@@ -162,7 +162,47 @@
 - **订阅量**：129,307
 - **收藏量**：5,983
 
-- **注意**：B42.13版本需要Neat Crafting & Neat Building - XP Display补丁 (可使用ID: 3623287625的B42.13补丁)才能正常工作
+- **注意**：B42.13版本需要Neat Crafting & Neat Building - Addon XP Display模组才能正常工作
+
+#### Neat Crafting & Neat Building - Addon XP Display 经验值显示
+
+| 模组名称 | Workshop ID | 链接 | Mod ID | 版本 | 状态 |
+|---------|------------|------|--------|------|------|
+| Neat Crafting & Neat Building - Addon XP Display | 3540503606 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3540503606) | Neat_Building_AddonXP, Neat_Crafting_AddonXP | 1.8.1 | ✅ 兼容B42.13 |
+
+**模组详情**
+
+由Afyrmo创作的经验值显示附加组件，为Neat Crafting和Neat Building模组提供了每个配方的经验值显示功能，并可选显示配方的来源模组信息。
+
+- **主要功能**：
+  - 显示每个配方获得的经验值及相关技能
+  - 4种显示模式：基础经验值/最终经验值/倍率/详细分解
+  - 可选显示配方来源模组信息
+  - 文本缩放和自动调整大小，避免信息被截断
+  - 多语言支持：英语、西班牙语、法语、德语、意大利语、俄语、日语、韩语、简体/繁体中文、葡萄牙语(PT/BR)、匈牙利语、荷兰语、波兰语、土耳其语、乌克兰语、泰语
+
+- **技术特点**：
+  - 兼容Build 42.13和Legacy 42.12.x
+  - 包含对基础UI的B42.13兼容性补丁
+  - 仅UI修改，无配方/物品/战利品更改
+  - 可在游戏中保存时安全添加/移除
+
+- **依赖关系**：
+  - 需要[B42]NeatUI Framework
+  - 此Workshop项包含两个独立的附加组件（只需启用你使用的部分）：
+    - Neat Crafting – Addon XP Display：需要Neat Crafting
+    - Neat Building – Addon XP Display：需要Neat Building
+
+- **推荐加载顺序**：
+  1. NeatUI Framework (框架)
+  2. [B42]Neat Crafting
+  3. [B42]Neat Building
+  4. Neat Crafting – Addon XP Display
+  5. Neat Building – Addon XP Display
+
+- **文件大小**：1.337 MB
+- **订阅量**：42,305
+- **收藏量**：1,623
 
 #### [B42]Project Cook (New)V1.0 项目烹饪
 
@@ -265,7 +305,16 @@
 2. 启动Project Zomboid
 3. 在模组列表中启用该模组
 4. 在游戏中使用双击建造功能
-5. 如需B42.13支持，确保也加载Neat Crafting Patch for B42.13 (ID: 3623287625)
+5. 如需B42.13支持，确保也加载Neat Crafting & Neat Building - Addon XP Display模组
+
+#### Neat Crafting & Neat Building - Addon XP Display
+
+1. 订阅"Neat Crafting & Neat Building - Addon XP Display"模组 (ID: 3540503606)
+2. 确保已订阅所需的前置模组：[B42]NeatUI Framework、Neat Crafting和Neat Building
+3. 启动Project Zomboid
+4. 在模组列表中启用该模组（确保加载顺序正确：框架->主模组->附加组件）
+5. 在游戏中查看制作/建筑界面上的XP显示信息
+6. 可通过Mod选项界面调整显示模式
 
 #### [B42]Project Cook (New)V1.0
 
