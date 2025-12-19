@@ -7,7 +7,7 @@
 
 ## 🎯 项目模组合集
 
-本项目的核心参考模组合集为 **[bin^2的B42.13合集](https://steamcommunity.com/sharedfiles/filedetails/?id=3624259825)**，这是一个精心挑选的B42.13兼容模组集合，包含26个高质量的模组，涵盖了界面增强、本地化、兼容性修复等多个类别。
+本项目的核心参考模组合集为 **[bin^2的B42.13合集](https://steamcommunity.com/sharedfiles/filedetails/?id=3624259825)**，这是一个精心挑选的B42.13兼容模组集合，包含28个高质量的模组，涵盖了界面增强、本地化、兼容性修复等多个类别。
 
 定期从该合集更新模组信息，确保文档始终反映最新的模组版本和兼容性状态。
 
@@ -91,6 +91,7 @@ Akyrohunter创作的一系列高质量的"传说"(Legendary)系列模组，为Pr
 - Neat Ingredients List - 将重复的原料分组为单个选项，优化原料列表显示
 - Consolidate All Fix (B42) - 修复Build 42中上下文菜单的"Consolidate all"按钮问题
 
+**模组状态更新**：
 [查看更多界面增强模组](./interface-enhancement/README.md)
 
 ## 🌾 农业/生物类模组
@@ -101,6 +102,8 @@ Akyrohunter创作的一系列高质量的"传说"(Legendary)系列模组，为Pr
 |---------|------------|------|------|------|
 | [B42]ShelterHold : Beehive | 3596827035 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3596827035) | 蜜蜂养殖 | ⚠️ B42.13需要补丁 |
 | ShelterHold : Beehive Patch for B42.13 | 3625028417 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3625028417) | 修复补丁 | ✅ 兼容B42.13 |
+| [B42]舌尖上的中国 | (待提供) | [链接待补充] | 食物/农业 | ✅ 兼容B42.13.1 |
+| More Mre&Millitary foodV3 | (待提供) | [链接待补充] | 食物 | ✅ 兼容B42.13 |
 
 [查看更多农业/生物类模组](./farming/README.md)
 

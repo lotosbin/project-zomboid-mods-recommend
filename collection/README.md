@@ -7,8 +7,8 @@
 ### 合集信息
 - **名称**：bin^2的B42.13合集
 - **作者**：bin^2
-- **模组数量**：26个
-- **创作者**：多个 talented modders（瓦尔基里，你太baby辣、喵了个球、Chuckleberry Finn、Rezistor、Rocco、Speedy Von Gofast、As1 Project、Afyrmo、Tchernobill、Akyrohunter、ardernord、Phoenix）
+- **模组数量**：28个
+- **创作者**：多个 talented modders（喵了个球、Chuckleberry Finn、Rezistor、Rocco、Speedy Von Gofast、As1 Project、Afyrmo、Tchernobill、Akyrohunter、ardernord、Phoenix）
 - **适用版本**：Project Zomboid Build 42.13
 - **最后更新**：2023年12月18日
 - **订阅量**：持续增长中
@@ -38,6 +38,7 @@
 - Neat Ingredients List
 - Combat Text (B40+B41+B42)
 
+
 #### 控制器支持模组 (1个)
 - Sidebar Controller Support
 
@@ -46,12 +47,26 @@
 - CleanUI Patch for B42.13
 - ShelterHold : Beehive Patch for B42.13
 
-#### 内容和功能模组 (5个)
+#### 内容和功能模组 (7个)
 - [B42]Project Cook (New)V1.0
 - [B42]ShelterHold : Beehive
 - Fast Forward (MP) - Build 42
 - Legendary Katana
 - errorMagnifier
+- [B42]舌尖上的中国
+- More Mre&Millitary foodV3
+
+**[B42]舌尖上的中国**
+- **作者**：飞奔
+- **功能**：新增十二生肖·兔符咒、全新的酿酒系统、高粱和水稻种植、各种果酒/白酒/啤酒酿造、酵母和酒曲工艺制作
+- **状态**：✅ 兼容B42.13.1
+- **分类**：食物/农业
+
+**More Mre&Millitary foodV3**
+- **作者**：Givi
+- **功能**：添加21型MRE自热食品和超过130种军用食物扩张品
+- **状态**：✅ 兼容B42.13
+- **分类**：食物
 
 #### 实用工具模组 (3个)
 - Consolidate All Fix (B42)
@@ -67,7 +82,7 @@
 | UI修复和改进 | 4 | 问题修复、UI优化、原料管理 |
 | 控制器支持 | 1 | 手柄适配、Steam Deck兼容 |
 | 兼容性补丁 | 3 | B42.13兼容性问题修复 |
-| 内容和功能 | 5 | 新增游戏内容、新系统 |
+| 内容和功能 | 7 | 新增游戏内容、新系统 |
 | 实用工具 | 3 | 辅助功能、错误报告、经验显示 |
 
 ### 模组加载顺序建议
