@@ -26,7 +26,6 @@
 
 | 模组名称 | Workshop ID | 链接 | Mod ID | 版本 | 状态 |
 |---------|------------|------|--------|------|------|
-| [B42.13] SimpleStatus-Fixed | 3622457795 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3622457795) | B42.12simpleStatusFixed | - | ⚠️ B42.12版本 |
 | [B42]ModernStatus V2.0 | 3451167732 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3451167732) | ModernStatus | V2.0 | ✅ 兼容B42.13 |
 | Mini Health Panel [B41/B42.13] | 待提供 | [链接待补充] | 待提供 | - | ✅ 兼容B42.13 |
 | Clean UI Menu Support | 待提供 | [链接待补充] | 待提供 | - | ✅ 兼容B42.13 |

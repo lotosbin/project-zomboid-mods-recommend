@@ -7,7 +7,7 @@
 ### 合集信息
 - **名称**：bin^2的B42.13合集
 - **作者**：bin^2
-- **模组数量**：27个
+- **模组数量**：26个
 - **创作者**：多个 talented modders（瓦尔基里，你太baby辣、喵了个球、Chuckleberry Finn、Rezistor、Rocco、Speedy Von Gofast、As1 Project、Afyrmo、Tchernobill、Akyrohunter、ardernord、Phoenix）
 - **适用版本**：Project Zomboid Build 42.13
 - **最后更新**：2023年12月18日
@@ -32,8 +32,7 @@
 - [B42]统一·中文汉化
 - [B42]统一·模组汉化
 
-#### UI修复和改进模组 (5个)
-- [B42.13] SimpleStatus-Fixed
+#### UI修复和改进模组 (4个)
 - Mini Health Panel [B41/B42.13]
 - Clean UI Menu Support
 - Neat Ingredients List
@@ -47,7 +46,7 @@
 - CleanUI Patch for B42.13
 - ShelterHold : Beehive Patch for B42.13
 
-#### 内容和功能模组 (4个)
+#### 内容和功能模组 (5个)
 - [B42]Project Cook (New)V1.0
 - [B42]ShelterHold : Beehive
 - Fast Forward (MP) - Build 42
@@ -65,10 +64,10 @@
 |-----|------|----------|
 | 界面增强类 | 8 | UI重设计、交互优化、状态显示 |
 | 本地化类 | 3 | 中文翻译、语言支持 |
-| UI修复和改进 | 5 | 问题修复、UI优化、原料管理 |
+| UI修复和改进 | 4 | 问题修复、UI优化、原料管理 |
 | 控制器支持 | 1 | 手柄适配、Steam Deck兼容 |
 | 兼容性补丁 | 3 | B42.13兼容性问题修复 |
-| 内容和功能 | 4 | 新增游戏内容、新系统 |
+| 内容和功能 | 5 | 新增游戏内容、新系统 |
 | 实用工具 | 3 | 辅助功能、错误报告、经验显示 |
 
 ### 模组加载顺序建议

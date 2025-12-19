@@ -441,6 +441,11 @@ n## 兼容性补丁nn这些补丁主要用于为主流界面增强类模组提�
 
 ### Clean UI Menu Support
 
+**作者**：Phoenix  
+**功能**：为CleanUI按钮添加上下文菜单支持，提高与Steam Deck和控制器的兼容性  
+**Workshop ID**：(待获取)  
+**状态**：✅ 兼容B42.13
+
 1. 确保已订阅和安装原版[B42]CleanUI V2.2模组
 2. 订阅"Clean UI Menu Support"模组 (Workshop ID待获取)
 3. 启动Project Zomboid
@@ -449,7 +454,12 @@ n## 兼容性补丁nn这些补丁主要用于为主流界面增强类模组提�
 
 ### Neat Ingredients List
 
-1. 订阅"Neat Ingredients List"模组 (Workshop ID待获取)
+**作者**：Phoenix  
+**功能**：将重复的原料分组为单个选项，食物原料按使用次数排序，香料按稀有度排序  
+**Workshop ID**：(待获取)  
+**状态**：✅ 兼容B42.13  
+
+1. 订阅"Neat Ingredients List"模组
 2. 确保已订阅和安装Neat系列模组
 3. 启动Project Zomboid
 4. 在模组列表中启用这些模组
@@ -458,7 +468,12 @@ n## 兼容性补丁nn这些补丁主要用于为主流界面增强类模组提�
 
 ### Sidebar Controller Support
 
-1. 订阅"Sidebar Controller Support"模组 (Workshop ID待获取)
+**作者**：Phoenix  
+**功能**：为管理装备和背包的侧边栏添加手柄支持，按Select按钮可打开上下文菜单  
+**Workshop ID**：(待获取)  
+**状态**：✅ 兼容B42.13  
+
+1. 订阅"Sidebar Controller Support"模组
 2. 启动Project Zomboid
 3. 在模组列表中启用该模组
 4. 在游戏中使用控制器或Steam Deck
@@ -467,11 +482,20 @@ n## 兼容性补丁nn这些补丁主要用于为主流界面增强类模组提�
 
 ### Consolidate All Fix (B42)
 
-1. 订阅"Consolidate All Fix (B42)"模组 (ID: 3485382965)
+**作者**：Phoenix  
+**功能**：修复Build 42中上下文菜单的"Consolidate all"按钮问题  
+**Workshop ID**：(待获取)  
+**状态**：✅ 兼容B42.13  
+**注意**：一旦原版游戏修复此问题，该模组将被移除
+
+1. 订阅"Consolidate All Fix (B42)"模组
 2. 启动Project Zomboid
 3. 在模组列表中启用该模组
-4. 在游戏中使用"Consolidate all"功能整理物品
-5. 注意：一旦官方修复此问题，可考虑移除此模组
+4. 在游戏中使用上下文菜单的"Consolidate all"按钮
+5. 体验修复后的批量整理功能
+
+
+
 
 ---
 

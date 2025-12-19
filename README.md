@@ -7,7 +7,7 @@
 
 ## 🎯 项目模组合集
 
-本项目的核心参考模组合集为 **[bin^2的B42.13合集](https://steamcommunity.com/sharedfiles/filedetails/?id=3624259825)**，这是一个精心挑选的B42.13兼容模组集合，包含23个高质量的模组，涵盖了界面增强、本地化、兼容性修复等多个类别。
+本项目的核心参考模组合集为 **[bin^2的B42.13合集](https://steamcommunity.com/sharedfiles/filedetails/?id=3624259825)**，这是一个精心挑选的B42.13兼容模组集合，包含26个高质量的模组，涵盖了界面增强、本地化、兼容性修复等多个类别。
 
 定期从该合集更新模组信息，确保文档始终反映最新的模组版本和兼容性状态。
 
@@ -85,6 +85,12 @@ Akyrohunter创作的一系列高质量的"传说"(Legendary)系列模组，为Pr
 | Neat Crafting & Neat Building - Addon XP Display | 3540503606 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3540503606) | 经验值显示 | ✅ 兼容B42.13 |
 | [b42]The Shortcut | 3470659758 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3470659758) | 快捷工具栏 | ✅ 兼容B42.13 |
 
+**最近新增的界面增强模组**：
+- Clean UI Menu Support - 为CleanUI按钮添加上下文菜单支持，提高与Steam Deck和控制器的兼容性
+- Sidebar Controller Support - 为管理装备和背包的侧边栏添加手柄支持
+- Neat Ingredients List - 将重复的原料分组为单个选项，优化原料列表显示
+- Consolidate All Fix (B42) - 修复Build 42中上下文菜单的"Consolidate all"按钮问题
+
 [查看更多界面增强模组](./interface-enhancement/README.md)
 
 ## 🌾 农业/生物类模组
@@ -104,7 +110,7 @@ Akyrohunter创作的一系列高质量的"传说"(Legendary)系列模组，为Pr
 
 | 模组名称 | Workshop ID | 链接 | 类别 | 状态 |
 |---------|------------|------|------|------|
-| [B42.13] SimpleStatus-Fixed | 3622457795 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3622457795) | UI修复 | ⚠️ B42.12版本 |
+
 | B42简体中文修复 | 3386522562 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3386522562) | 中文本地化 | ✅ 兼容B42.13 |
 | [B42]统一·中文汉化 | 3556544454 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3556544454) | 中文本地化 | ✅ 兼容B42.13 |
 | [B42]统一·模组汉化 | 3556540080 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3556540080) | 模组本地化 | ✅ 兼容B42.13 |
