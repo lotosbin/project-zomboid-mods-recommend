@@ -26,6 +26,7 @@
 - [农业/生物类模组](./farming/README.md) - 农业、养殖和生物资源管理模组
 - [本地化和修复类模组](./localization-and-patches/README.md) - 语言本地化、兼容性补丁和问题修复
 - [其他类模组](./other/README.md) - 不属于特定类别的各种实用功能模组
+- [TODO: 待测试模组](./todo/README.md) - 计划测试和评估的热门Build 42模组列表
 - [项目模组合集](./collection/README.md) - 核心参考的B42.13模组合集
 - [模组使用指南](./mods.md) - 如何订阅和使用这些模组
 
@@ -160,6 +161,8 @@ project-zomboid-mods/
 │   └── README.md              # 语言本地化、兼容性补丁和问题修复
 ├── other/                     # 其他类模组
 │   └── README.md              # 不属于特定类别的各种实用功能模组
+├── todo/                      # 待测试模组列表
+│   └── README.md              # 计划测试和评估的热门Build 42模组列表
 ├── collection/                # 模组合集
 │   ├── README.md              # 核心参考的B42.13模组合集
 │   └── updates.md             # 合集更新日志
