@@ -17,7 +17,7 @@
 
 该合集包含以下类别的模组：
 
-#### 界面增强类模组 (9个)
+#### 界面增强类模组 (12个)
 - [B42]ModernStatus V2.0
 - [B42]CleanUI V2.2
 - [B42]Clean HotBar v1.8
@@ -28,17 +28,20 @@
 - Smart Radial Menu
 - Eat whole stack
 - [B42.13] SimpleStatus-Fixed
+- [B41/42] Known And Collected
+- Quick Skill Tracker
 
 #### 本地化类模组 (3个)
 - B42简体中文修复
 - [B42]统一·中文汉化
 - [B42]统一·模组汉化
 
-#### UI修复和改进模组 (4个)
+#### 游戏信息增强模组 (4个)
 - Mini Health Panel [B41/B42.13]
 - Clean UI Menu Support
 - Neat Ingredients List
 - Combat Text (B40+B41+B42)
+- [B42.13] Detailed Descriptions for Occupations and Traits
 
 
 #### 控制器支持模组 (1个)
@@ -48,14 +51,22 @@
 - Consolidate All Fix (B42)
 - Neat Crafting & Neat Building - Addon XP Display
 
-#### 内容和功能模组 (7个)
+#### 游戏体验优化模组 (4个)
 - [B42]Project Cook (New)V1.0
 - [B42]ShelterHold : Beehive
 - Fast Forward (MP) - Build 42
 - Legendary Katana
 - errorMagnifier
-- [B42]舌尖上的中国
-- More Mre&Millitary foodV3
+
+#### 生存和环境模组 (2个)
+- Comfy Sleeping [B41 & B42]
+- Here Goes the Sun [MP42.13+]
+
+#### 系统功能模组 (2个)
+- [B42] Water Pipes (aka Plumbing)
+- [B42] Mod Manager
+
+#### 食物和文化模组 (2个)
 
 **[B42]舌尖上的中国**
 - **作者**：飞奔
@@ -82,13 +93,15 @@
 
 | 类别 | 数量 | 主要功能 |
 |-----|------|----------|
-| 界面增强类 | 10 | UI重设计、交互优化、状态显示、食物交互 |
+| 界面增强类 | 12 | UI重设计、交互优化、状态显示、食物交互、技能追踪、收藏管理 |
 | 本地化类 | 3 | 中文翻译、语言支持 |
-| UI修复和改进 | 4 | 问题修复、UI优化、原料管理 |
+| 游戏信息增强类 | 4 | 问题修复、UI优化、原料管理、游戏信息 |
 | 控制器支持 | 1 | 手柄适配、Steam Deck兼容 |
-| 兼容性补丁 | - | 已归类到对应的主模组中 |
-| 内容和功能 | 6 | 新增游戏内容、新系统 |
-| 实用工具 | 2 | 辅助功能、经验显示 |
+| 兼容性补丁 | 1 | 已归类到对应的主模组中 |
+| 游戏体验优化类 | 4 | 游戏机制、烹饪、时间控制、装备管理 |
+| 生存和环境类 | 2 | 睡眠系统、环境视觉效果 |
+| 系统功能类 | 2 | 建筑系统、模组管理 |
+| 食物和文化类 | 2 | 中式美食、军用食品 |
 
 ### 模组加载顺序建议
 

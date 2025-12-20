@@ -7,13 +7,13 @@
 
 ## 🎯 项目模组合集
 
-项目的核心参考模组合集为 **[bin^2的B42.13合集](https://steamcommunity.com/sharedfiles/filedetails/?id=3624259825)**，这是一个精心挑选的B42.13兼容模组集合，包含30个高质量的模组，涵盖了界面增强、本地化、兼容性修复等多个类别。
+项目的核心参考模组合集为 **[bin^2的B42.13合集](https://steamcommunity.com/sharedfiles/filedetails/?id=3624259825)**，这是一个精心挑选的B42.13兼容模组集合，包含36个高质量的模组，涵盖了界面增强、本地化、兼容性修复等多个类别。
 
 定期从该合集更新模组信息，确保文档始终反映最新的模组版本和兼容性状态。
 
 **[查看更新日志](./collection/updates.md)** - 记录合集中新增模组和版本变化的详细信息
 
-**最近更新**：2025年6月18日 - 检查并更新了Steam合集信息，模组数量从28个增加到30个
+**最近更新**：2025年12月20日 - 检查并更新了Steam合集信息，模组数量从30个增加到36个，新增了技能追踪、管道系统、模组管理器等实用功能模组
 ## 📁 目录结构
 - [模组速览](./index.md) - 快速浏览所有收录模组
 
@@ -27,6 +27,8 @@
 - [本地化和修复类模组](./localization-and-patches/README.md) - 语言本地化、兼容性补丁和问题修复
 - [其他类模组](./other/README.md) - 不属于特定类别的各种实用功能模组
 - [TODO: 待测试模组](./todo/README.md) - 计划测试和评估的热门Build 42模组列表
+- [生存和环境类模组](./survival-environment/README.md) - 睡眠系统、环境视觉效果等生存体验增强模组
+- [系统功能类模组](./system-features/README.md) - 建筑系统、模组管理等系统级功能模组
 - [项目模组合集](./collection/README.md) - 核心参考的B42.13模组合集
 - [模组使用指南](./mods.md) - 如何订阅和使用这些模组
 
@@ -73,7 +75,7 @@ Akyrohunter创作的一系列高质量的"传说"(Legendary)系列模组，为Pr
 
 ## 🖥️ 界面增强类模组
 
-这些模组专注于改进Project Zomboid的用户界面(UI)和交互体验，补丁已与对应模组归类在一起：
+这些模组专注于改进Project Zomboid的用户界面(UI)和交互体验，补丁已与对应模组归类在一起，包括收藏管理等界面优化功能：
 
 | 模组名称 | Workshop ID | 链接 | 类别 | 状态 |
 |---------|------------|------|------|------|
@@ -87,6 +89,7 @@ Akyrohunter创作的一系列高质量的"传说"(Legendary)系列模组，为Pr
 | Neat Crafting & Neat Building - Addon XP Display | 3540503606 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3540503606) | 经验值显示 | ✅ 兼容B42.13 |
 | [b42]The Shortcut | 3470659758 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3470659758) | 快捷工具栏 | ✅ 兼容B42.13 |
 | Eat whole stack | 3617669428 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3617669428) | 食物交互 | ✅ 兼容B42.13 |
+| [B41/42] Known And Collected | 待提供 | [链接待补充] | 收藏管理 | ⚠️ B42.13需补丁 |
 
 [查看更多界面增强模组](./interface-enhancement/README.md)
 
@@ -176,4 +179,4 @@ project-zomboid-mods/
         └── README.md
 ```
 
-*最后更新：2025年6月18日*
+*最后更新：2025年12月20日*
