@@ -18,12 +18,13 @@ n## 兼容性补丁nn这些补丁主要用于为主流界面增强类模组提�
 n## 兼容性补丁nn这些补丁主要用于为主流界面增强类模组提供Build 42.13等新游戏版本的兼容性支持。使用这些补丁时，请确保正确的加载顺序（通常是将补丁加载在原版模组之后）。nn
 ## 模组列表
 
-### CleanUI 清理界面
+### CleanUI 清理界面（含补丁及扩展）
 
 | 模组名称 | Workshop ID | 链接 | Mod ID | 版本 | 状态 |
 |---------|------------|------|--------|------|------|
-| [B42]CleanUI V2.2 (原版) | 3437629766 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3437629766) | CleanUI | V2.2 | ⚠️ B42.13有问题 |
-| CleanUI Patch for B42.13 | 3623352001 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3623352001) | CleanUI_B42_13 | - | ❌ 会导致崩溃 |
+| [B42]CleanUI V2.3 | 3437629766 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3437629766) | CleanUI | V2.3 | ✅ 兼容B42.13.1 |
+| [OBSOLETE] CleanUI Patch for B42.13 | 3623352001 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3623352001) | CleanUI_B42_13 | - | ❌ 已过时，会导致崩溃 |
+| Clean UI Menu Support | 待提供 | [链接待补充] | CleanUIMenuSupport | - | ✅ 兼容B42.13 |
 
 **模组详情**
 
@@ -45,7 +46,20 @@ n## 兼容性补丁nn这些补丁主要用于为主流界面增强类模组提�
   - 折叠/展开所有物品
   - 隐藏已装备物品
 
-**注意**：B42.13兼容性补丁当前会导致游戏崩溃，建议等待作者更新后再使用。补丁通常需要与原版模组一起使用，并确保正确的加载顺序。
+- **注意**：原版[B42]CleanUI V2.3已更新为B42.13.1兼容，无需使用补丁。CleanUI Patch for B42.13已标记为过时，不应再使用。
+
+#### Clean UI Menu Support 上下文菜单支持
+
+由Phoenix创作的CleanUI上下文菜单支持模组，为CleanUI按钮添加了上下文菜单支持，提高了与Steam Deck和控制器的兼容性。
+
+- **主要功能**：
+  - 为CleanUI按钮添加上下文菜单支持
+  - 改善与Steam Deck和控制器的兼容性
+  - 允许从原版模组界面按钮访问相同的功能
+  - 支持所有按钮，但搜索按钮除外
+
+- **依赖关系**：
+  - 需要[B42]CleanUI V2.2或更高版本
 
 ### [B42]Clean HotBar v1.8 整洁快捷栏
 
@@ -305,105 +319,38 @@ n## 兼容性补丁nn这些补丁主要用于为主流界面增强类模组提�
 - **收藏量**：6,878
 
 ---
-# 界面增强类模组（含补丁）
 
-这些模组专注于改进Project Zomboid的用户界面(UI)和交互体验，通过重新设计或添加新功能使游戏界面更加直观、高效和美观。其中包括兼容性补丁，确保这些界面增强模组在最新游戏版本中正常工作。
+# 模组使用指南
 
-## 界面增强类模组特点
+## 界面增强类模组加载顺序
 
-这类模组通常具有以下特点：
+使用这些模组时，请确保正确的加载顺序，特别是包含补丁的模组组合：
 
-1. **界面重设计**：提供更清晰、更直观的界面布局和视觉元素
-2. **交互优化**：简化常见操作，减少点击次数和界面切换
-3. **视觉效果**：改进UI元素的外观和动画效果
-4. 操作便捷性：添加快捷功能键、径向菜单等交互方式
-5. **定制选项**：允许玩家自定义界面布局和显示选项
-6. **控制器支持**：增强手柄和Steam Deck的使用体验
-7. **兼容性维护**：提供B42.13等新游戏版本的兼容性补丁
+1. 框架类模组（如[B42]NeatUI Framework）
+2. 主要功能模组（如Neat Crafting、Neat Building）
+3. 附加组件（如XP Display）
+4. 兼容性补丁（加载在原版模组之后）
 
-## 兼容性补丁说明
+## 模组安装指南
 
-本分类中的部分模组提供了B42.13兼容性补丁，确保主流模组在最新游戏版本中正常工作。使用这些补丁时，请确保正确的加载顺序：
+### CleanUI 系列模组
 
-1. 将原版模组加载在加载顺序的前面
-2. 将兼容性补丁加载在原版模组后面
-3. 某些补丁可能只适用于单人游戏，多人游戏兼容性可能不同
+1. 订阅"[B42]CleanUI V2.3"模组 (ID: 3437629766)
+2. 如需控制器支持，订阅"Clean UI Menu Support"模组
+3. 启动Project Zomboid
+4. 在模组列表中启用这些模组（确保加载顺序：原版->扩展组件）
+5. 根据个人需求调整设置
 
-## 模组列表
+**注意**：不要使用已过时的CleanUI Patch for B42.13，原版模组已更新为B42.13.1兼容。
 
-### CleanUI 清理界面（含补丁）
-
-| 模组名称 | Workshop ID | 链接 | Mod ID | 版本 | 状态 |
-|---------|------------|------|--------|------|------|
-| [B42]CleanUI V2.2 (原版) | 3437629766 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3437629766) | CleanUI | V2.2 | ⚠️ B42.13有问题 |
-| CleanUI Patch for B42.13 | 3623352001 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3623352001) | CleanUI_B42_13 | - | ❌ 会导致崩溃 |
-
-**说明**：B42.13兼容性补丁当前会导致游戏崩溃，建议等待作者更新后再使用。可以考虑使用其他界面替代方案。
-
-## 模组使用指南
-#### Clean UI Menu Support 上下文菜单支持
-
-| 模组名称 | Workshop ID | 链接 | Mod ID | 版本 | 状态 |
-|---------|------------|------|--------|------|------|
-| Clean UI Menu Support | 待提供 | [链接待补充] | CleanUIMenuSupport | - | ✅ 兼容B42.13 |
-
-**模组详情**
-
-由Phoenix创作的CleanUI上下文菜单支持模组，为CleanUI按钮添加了上下文菜单支持，提高了与Steam Deck和控制器的兼容性。
-
-- **主要功能**：
-  - 为CleanUI按钮添加上下文菜单支持
-  - 改善与Steam Deck和控制器的兼容性
-  - 允许从原版模组界面按钮访问相同的功能
-  - 支持所有按钮，但搜索按钮除外
-
-- **依赖关系**：
-  - 需要[B42]CleanUI V2.2或更高版本
-
-### CleanUI 界面优化（仅原版）
-
-1. 订阅原版"[B42]CleanUI V2.2"模组 (ID: 3437629766)
-2. 启动Project Zomboid
-3. 在模组列表中启用该模组
-4. 根据个人需求，使用ModOptions界面调整CleanUI设置
-
-**注意**：B42.13兼容性补丁当前会导致游戏崩溃，建议等待更新。
-
-### [B42]Clean HotBar v1.8
-
-1. 订阅"[B42]Clean HotBar v1.8"模组 (ID: 3461263912)
-2. 启动Project Zomboid
-3. 在模组列表中启用该模组（建议放在加载顺序底部）
-4. 在游戏中根据个人喜好调整快捷栏设置
-- 使用设置面板（悬停在快捷栏上时出现）进行自定义
-
-**注意**：如遇到其他UI模组冲突，请尝试调整模组加载顺序。
-
-### [b42]The Shortcut 快捷工具栏
-
-1. 订阅"[b42]The Shortcut"模组 (ID: 3470659758)
-2. 启动Project Zomboid
-3. 在模组列表中启用该模组
-4. 在游戏中按TAB键（默认快捷键）打开/关闭快捷面板
-5. 在设置页面中自定义快捷栏布局和外观
-6. 如遇到显示问题，删除保存文件夹中的ShortcutConfig.lua文件
-
-### Smart Radial Menu
-
-1. 订阅"Smart Radial Menu"模组 (ID: 3494108029)
-2. 启动Project Zomboid
-3. 在模组列表中启用该模组
-4. 在游戏中尝试右键（或使用控制器键）打开径向菜单
-5. 根据需要调整模组选项（如果有）
-
-### Neat系列界面模组使用指南
+### Neat系列模组
 
 #### [B42]Neat Crafting V1.5 及 B42.13补丁
 
 1. 订阅原版"[B42]Neat Crafting V1.5"模组 (ID: 3502080466)
 2. 订阅"Neat Crafting Patch for B42.13"补丁 (ID: 3623287625)
 3. 启动Project Zomboid
-4. 在模组列表中启用这两个模组（确保加载顺序正确：原版->补丁->其他）
+4. 在模组列表中启用这两个模组（确保加载顺序正确：原版->补丁）
 5. 在游戏中使用重新设计的制作界面
 
 #### [B42]Neat Building + More Buildings V1.4
@@ -412,7 +359,6 @@ n## 兼容性补丁nn这些补丁主要用于为主流界面增强类模组提�
 2. 启动Project Zomboid
 3. 在模组列表中启用该模组
 4. 在游戏中使用双击建造功能
-5. 如需B42.13支持，确保也加载Neat Crafting & Neat Building - Addon XP Display模组
 
 #### Neat Crafting & Neat Building - Addon XP Display
 
@@ -420,18 +366,8 @@ n## 兼容性补丁nn这些补丁主要用于为主流界面增强类模组提�
 2. 确保已订阅所需的前置模组：[B42]NeatUI Framework、Neat Crafting和Neat Building
 3. 启动Project Zomboid
 4. 在模组列表中启用该模组（确保加载顺序正确：框架->主模组->附加组件）
-5. 在游戏中查看制作/建筑界面上的XP显示信息
-6. 可通过Mod选项界面调整显示模式
 
-#### [B42]Project Cook (New)V1.0
-
-1. 订阅"[B42]Project Cook (New)V1.0"模组 (ID: 3490188370)
-2. 确保已订阅"[B42]NeatUI Framework"模组
-3. 启动Project Zomboid
-4. 在模组列表中启用这些模组
-5. 在游戏中通过悬停制作按钮或右键食物打开烹饪面板
-
-#### [B42]ModernStatus V2.0
+### [B42]ModernStatus V2.0
 
 1. 订阅"[B42]ModernStatus V2.0"模组 (ID: 3451167732)
 2. 启动Project Zomboid
@@ -452,47 +388,21 @@ n## 兼容性补丁nn这些补丁主要用于为主流界面增强类模组提�
 4. 在模组列表中启用这些模组（确保Clean UI Menu Support加载在CleanUI之后）
 5. 在游戏中使用上下文菜单功能，特别是在Steam Deck或使用手柄时
 
-### Neat Ingredients List
+---
 
-**作者**：Phoenix  
-**功能**：将重复的原料分组为单个选项，食物原料按使用次数排序，香料按稀有度排序  
-**Workshop ID**：(待获取)  
-**状态**：✅ 兼容B42.13  
+## 提交推荐模组
 
-1. 订阅"Neat Ingredients List"模组
-2. 确保已订阅和安装Neat系列模组
-3. 启动Project Zomboid
-4. 在模组列表中启用这些模组
-5. 在制作界面中享受更简洁的原料列表
-6. 尝试使用食物状态过滤功能找到合适的原料
+如果您有推荐的界面增强类模组，请提供以下信息：
 
-### Sidebar Controller Support
+- 模组名称
+- Workshop ID
+- 简短描述（功能、特点）
+- 与B42.13的兼容性
+- 推荐理由
 
-**作者**：Phoenix  
-**功能**：为管理装备和背包的侧边栏添加手柄支持，按Select按钮可打开上下文菜单  
-**Workshop ID**：(待获取)  
-**状态**：✅ 兼容B42.13  
+---
 
-1. 订阅"Sidebar Controller Support"模组
-2. 启动Project Zomboid
-3. 在模组列表中启用该模组
-4. 在游戏中使用控制器或Steam Deck
-5. 按Select按钮打开上下文菜单
-6. 体验更便捷的背包和装备管理
-
-### Consolidate All Fix (B42)
-
-**作者**：Phoenix  
-**功能**：修复Build 42中上下文菜单的"Consolidate all"按钮问题  
-**Workshop ID**：(待获取)  
-**状态**：✅ 兼容B42.13  
-**注意**：一旦原版游戏修复此问题，该模组将被移除
-
-1. 订阅"Consolidate All Fix (B42)"模组
-2. 启动Project Zomboid
-3. 在模组列表中启用该模组
-4. 在游戏中使用上下文菜单的"Consolidate all"按钮
-5. 体验修复后的批量整理功能
+**[← 返回项目主页](../README.md)**
 
 
 

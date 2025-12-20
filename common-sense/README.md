@@ -56,13 +56,12 @@
   - 女性角色的语音可能听起来较为男性化，影响沉浸感（作者计划改进）
   - 中文翻译仅提供简体中文（在B41版本中有用户报告中文语言功能无法正常工作）
 
-### Read While Walking 行走中阅读
-
-#### 原版模组
+### Read While Walking 行走中阅读（含B42.13兼容性补丁）
 
 | 模组名称 | Workshop ID | 链接 | Mod ID | 版本 | 状态 |
 |---------|------------|------|--------|------|------|
 | Read While Walking | 2845952197 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=2845952197) | SimpleReadWhileWalking | B41/B42 | ⚠️ B42.13有问题 |
+| Simple Read While Walking 42.13+ compatibility patch | 3625232801 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3625232801) | - | - | ✅ 兼容B42.13 |
 
 **原版模组详情**
 
@@ -91,21 +90,21 @@
 - **订阅量**：876,589
 - **收藏量**：21,495
 
-#### B42.13兼容性补丁
+#### B42.13兼容性补丁详情
 
-| 模组名称 | Workshop ID | 链接 | 版本 | 状态 |
-|---------|------------|------|------|------|
-| Simple Read While Walking 42.13+ compatibility patch | 3625232801 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3625232801) | - | - | ✅ 兼容B42.13 |
-
-**补丁详情**
-
-这是一个小型修复模组，由pimat.studio创作，用于解决原版"Read While Walking"模组在B42.13更新后出现的错误问题。
+由pimat.studio创作的小型修复模组，用于解决原版"Read While Walking"模组在B42.13更新后出现的错误问题。
 
 - **功能**：恢复在行走时阅读书籍的能力，无错误信息
 - **兼容性**：专为Build 42.13+设计，修复原版模组的错误
-- **注意**：主要针对单人模式修复，多人模式兼容性未测试
+- **注意**：主要针对单人模式修复，多人游戏兼容性未测试
 - **大小**：156.309 KB（轻量级）
 - **依赖**：需要原版"Read While Walking"模组
+
+**使用方法**：
+1. 同时订阅原版"Read While Walking"模组和B42.13兼容性补丁
+2. 在模组列表中启用这两个模组（确保补丁加载在原版之后）
+3. 在游戏中设置阅读速度（沙盒选项中调整）
+4. 开始游戏并享受无错误的行走阅读体验
 
 ## 时间管理类
 
@@ -227,7 +226,7 @@
 
 ### Fast Forward (MP) - Build 42
 
-1. 订阅原版"[B42]CleanUI V2.2"模组 (ID: 3437629766)
+1. 订阅"Fast Forward (MP) - Build 42"模组 (ID: 3623959321)
 2. 启动Project Zomboid
 3. 在模组列表中启用该模组
 4. 在游戏中设置时间流动（可通过管理员菜单或设置）

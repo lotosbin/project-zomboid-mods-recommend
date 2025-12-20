@@ -7,11 +7,13 @@
 
 ## 🎯 项目模组合集
 
-本项目的核心参考模组合集为 **[bin^2的B42.13合集](https://steamcommunity.com/sharedfiles/filedetails/?id=3624259825)**，这是一个精心挑选的B42.13兼容模组集合，包含28个高质量的模组，涵盖了界面增强、本地化、兼容性修复等多个类别。
+项目的核心参考模组合集为 **[bin^2的B42.13合集](https://steamcommunity.com/sharedfiles/filedetails/?id=3624259825)**，这是一个精心挑选的B42.13兼容模组集合，包含30个高质量的模组，涵盖了界面增强、本地化、兼容性修复等多个类别。
 
 定期从该合集更新模组信息，确保文档始终反映最新的模组版本和兼容性状态。
 
 **[查看更新日志](./collection/updates.md)** - 记录合集中新增模组和版本变化的详细信息
+
+**最近更新**：2025年6月18日 - 检查并更新了Steam合集信息，模组数量从28个增加到30个
 ## 📁 目录结构
 - [模组速览](./index.md) - 快速浏览所有收录模组
 
@@ -23,6 +25,7 @@
 - [界面增强类模组](./interface-enhancement/README.md) - UI/UX改进和优化模组
 - [农业/生物类模组](./farming/README.md) - 农业、养殖和生物资源管理模组
 - [本地化和修复类模组](./localization-and-patches/README.md) - 语言本地化、兼容性补丁和问题修复
+- [其他类模组](./other/README.md) - 不属于特定类别的各种实用功能模组
 - [项目模组合集](./collection/README.md) - 核心参考的B42.13模组合集
 - [模组使用指南](./mods.md) - 如何订阅和使用这些模组
 
@@ -61,8 +64,7 @@ Akyrohunter创作的一系列高质量的"传说"(Legendary)系列模组，为Pr
 
 | 模组名称 | Workshop ID | 链接 | 类别 | 状态 |
 |---------|------------|------|------|------|
-| Read While Walking (原版) | 2845952197 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=2845952197) | 实用工具 | ⚠️ B42.13有问题 |
-| Simple Read While Walking 42.13+ compatibility patch | 3625232801 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3625232801) | 修复补丁 | ✅ 兼容B42.13 |
+| Read While Walking (含B42.13补丁) | 2845952197 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=2845952197) | 实用工具 | ⚠️ B42.13需补丁 |
 | [B42.13] Fruits in jars | 3432006285 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3432006285) | 食物/储藏 | ✅ 兼容B42.13 |
 | Fast Forward (MP) - Build 42 | 3623959321 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3623959321) | 时间管理 | ✅ 兼容B42.13 |
 
@@ -70,38 +72,30 @@ Akyrohunter创作的一系列高质量的"传说"(Legendary)系列模组，为Pr
 
 ## 🖥️ 界面增强类模组
 
-这些模组专注于改进Project Zomboid的用户界面(UI)和交互体验：
+这些模组专注于改进Project Zomboid的用户界面(UI)和交互体验，补丁已与对应模组归类在一起：
 
 | 模组名称 | Workshop ID | 链接 | 类别 | 状态 |
 |---------|------------|------|------|------|
-| [B42]CleanUI V2.2 (原版) | 3437629766 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3437629766) | 界面优化 | ⚠️ B42.13有问题 |
-| CleanUI Patch for B42.13 | 3623352001 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3623352001) | 修复补丁 | ❌ 会导致崩溃 |
+| [B42]CleanUI V2.3 (含扩展) | 3437629766 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3437629766) | 界面优化 | ✅ 兼容B42.13.1 |
 | Smart Radial Menu | 3494108029 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3494108029) | 交互优化 | ✅ 兼容B42.13 |
 | [B42]Clean HotBar v1.8 | 3461263912 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3461263912) | 快捷栏优化 | ✅ 兼容B42.13 |
-| [B42]Neat Crafting V1.5 | 3502080466 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3502080466) | 制作界面 | ⚠️ B42.13需要补丁 |
-| [B42]Neat Building + More Buildings V1.4 | 3536052310 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3536052310) | 建造界面 | ⚠️ B42.13需要补丁 |
+| [B42]Neat Crafting V1.5 (含补丁) | 3502080466 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3502080466) | 制作界面 | ⚠️ B42.13需补丁 |
+| [B42]Neat Building + More Buildings V1.4 | 3536052310 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3536052310) | 建造界面 | ✅ 兼容B42.13 |
 | [B42]Project Cook (New)V1.0 | 3490188370 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3490188370) | 烹饪界面 | ✅ 兼容B42.13 |
 | [B42]ModernStatus V2.0 | 3451167732 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3451167732) | 状态指示器 | ✅ 兼容B42.13 |
 | Neat Crafting & Neat Building - Addon XP Display | 3540503606 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3540503606) | 经验值显示 | ✅ 兼容B42.13 |
 | [b42]The Shortcut | 3470659758 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3470659758) | 快捷工具栏 | ✅ 兼容B42.13 |
+| Eat whole stack | 3617669428 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3617669428) | 食物交互 | ✅ 兼容B42.13 |
 
-**最近新增的界面增强模组**：
-- Clean UI Menu Support - 为CleanUI按钮添加上下文菜单支持，提高与Steam Deck和控制器的兼容性
-- Sidebar Controller Support - 为管理装备和背包的侧边栏添加手柄支持
-- Neat Ingredients List - 将重复的原料分组为单个选项，优化原料列表显示
-- Consolidate All Fix (B42) - 修复Build 42中上下文菜单的"Consolidate all"按钮问题
-
-**模组状态更新**：
 [查看更多界面增强模组](./interface-enhancement/README.md)
 
 ## 🌾 农业/生物类模组
 
-这些模组专注于增强Project Zomboid的农业系统和生物资源管理，为玩家提供更丰富的食物来源和养殖体验，让末日生存更加多样化。
+这些模组专注于增强Project Zomboid的农业系统和生物资源管理，为玩家提供更丰富的食物来源和养殖体验，让末日生存更加多样化，补丁已与对应模组归类在一起：
 
 | 模组名称 | Workshop ID | 链接 | 类别 | 状态 |
 |---------|------------|------|------|------|
-| [B42]ShelterHold : Beehive | 3596827035 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3596827035) | 蜜蜂养殖 | ⚠️ B42.13需要补丁 |
-| ShelterHold : Beehive Patch for B42.13 | 3625028417 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3625028417) | 修复补丁 | ✅ 兼容B42.13 |
+| [B42]ShelterHold : Beehive (含B42.13补丁) | 3596827035 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3596827035) | 蜜蜂养殖 | ⚠️ B42.13需补丁 |
 | [B42]舌尖上的中国 | (待提供) | [链接待补充] | 食物/农业 | ✅ 兼容B42.13.1 |
 | More Mre&Millitary foodV3 | (待提供) | [链接待补充] | 食物 | ✅ 兼容B42.13 |
 
@@ -159,8 +153,16 @@ project-zomboid-mods/
 ├── common-sense/              # 常识类模组
 │   └── README.md              # 贴合现实的改进和修复
 ├── interface-enhancement/     # 界面增强类模组
-├── collection/                # 模组合集
 │   └── README.md              # UI/UX改进和优化
+├── farming/                   # 农业/生物类模组
+│   └── README.md              # 农业、养殖和生物资源管理
+├── localization-and-patches/  # 本地化和修复类模组
+│   └── README.md              # 语言本地化、兼容性补丁和问题修复
+├── other/                     # 其他类模组
+│   └── README.md              # 不属于特定类别的各种实用功能模组
+├── collection/                # 模组合集
+│   ├── README.md              # 核心参考的B42.13模组合集
+│   └── updates.md             # 合集更新日志
 └── legendary-series/          # 传说系列模组文档
     ├── README.md              # 传说系列主页
     ├── weapons/               # 武器类模组
@@ -171,5 +173,4 @@ project-zomboid-mods/
         └── README.md
 ```
 
-
-*最后更新：2023年12月*
+*最后更新：2025年6月18日*
