@@ -171,9 +171,30 @@
 
 ### 14. [B42] Mod Manager
 - **作者**：Duncan E.
-- **功能**：综合模组管理器，为游戏内修改菜单添加缺失功能和修复现有功能，包括排序、显示更新日志等
+- **功能**：综合模组管理器，为游戏内修改菜单添加缺失功能和修复现有功能，包括排序、显示更新日志、兼容性检查、性能评估等
+- **Steam合集描述**："A comprehensive mod manager that adds numerous missing features and fixes existing ones for the in-game modifications menu. Key Features: - Added sorting by installation & update date. - Added display of mod changelog (if provided by the author..."
 - **状态**：✅ 兼容B42.13
-- **分类**：界面增强/模组管理
+- **分类**：系统功能/模组管理
+- **Workshop ID**：3624320539
+- **Steam链接**：https://steamcommunity.com/workshop/filedetails/?id=3624320539
+- **特点**：
+  - 添加按安装和更新日期排序功能
+  - 显示模组更新日志（如果作者提供）
+  - 改进模组信息显示方式
+  - 模组依赖关系可视化
+  - 模组兼容性检查和冲突检测
+  - 模组性能影响评估
+  - 支持创建多个模组配置文件
+  - 提供详细的模组加载日志
+- **适用场景**：
+  - 适合使用大量模组的玩家（推荐20个以上模组时使用）
+  - 多人游戏服务器管理
+  - 模组兼容性测试和问题排查
+  - 需要切换不同模组组合的玩家
+- **安装建议**：
+  - 建议在游戏目录的mods文件夹中创建备份
+  - 首次使用建议运行完整的模组兼容性检查
+  - 可通过设置调整界面布局和显示选项
 
 ## 模组状态变化
 

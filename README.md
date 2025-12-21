@@ -31,6 +31,8 @@
 - [系统功能类模组](./system-features/README.md) - 建筑系统、模组管理、自动裁缝等系统级功能模组
 - [项目模组合集](./collection/README.md) - 核心参考的B42.13模组合集
 - [模组使用指南](./mods.md) - 如何订阅和使用这些模组
+- [模组依赖关系](./mod-dependencies.md) - 详细的模组依赖分析和加载顺序
+- [模组依赖关系图](./mod-dependencies-graph.md) - 可视化的模组依赖关系图
 
 ## 🌟 传说系列模组
 
@@ -169,8 +171,10 @@ project-zomboid-mods/
 │   └── README.md              # 计划测试和评估的热门Build 42模组列表
 ├── survival-environment/      # 生存和环境类模组
 │   └── README.md              # 睡眠系统、环境视觉效果等生存体验增强模组
-├── system-features/           # 系统功能类模组
-│   └── README.md              # 建筑系统、模组管理、自动裁缝等系统级功能模组
+| system-features/           | 系统功能类模组
+│   └── README.md              | 建筑系统、模组管理、自动裁缝等系统级功能模组
+├── mod-dependencies.md      # 模组依赖关系分析
+├── mod-dependencies-graph.md # 模组依赖关系可视化图表
 ├── collection/                # 模组合集
 │   ├── README.md              # 核心参考的B42.13模组合集
 │   └── updates.md             # 合集更新日志
