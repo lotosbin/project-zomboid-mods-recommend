@@ -10,7 +10,7 @@
 - **模组数量**：36个（已剔除补丁类依赖项）
 - **创作者**：多个 talented modders（喵了个球、Chuckleberry Finn、Rezistor、Rocco、Speedy Von Gofast、As1 Project、Afyrmo、Tchernobill、Akyrohunter、ardernord、Phoenix、Notloc、Nikku Miru、Revan等）
 - **适用版本**：Project Zomboid Build 42.13
-- **最后更新**：2023年12月20日（当前检查：2025年6月18日）
+- **最后更新**：2023年12月20日（当前检查：2025年12月21日）
 - **订阅量**：持续增长中
 
 ### 合集分类概览

@@ -50,17 +50,17 @@
 | [b42]The Shortcut | 3470659758 | 快捷工具栏 | ✅ 兼容B42.13 |
 | [B42.13] SimpleStatus-Fixed | 3622457795 | 状态指示器 | ✅ 兼容B42.13 |
 | Eat whole stack | 3617669428 | 食物交互 | ✅ 兼容B42.13 |
-| Equipment UI - Paper Doll Equipment Interface [B42/41] | 待补充 | 装备界面 | ✅ 兼容B42/B41 |
-| [B42] Nested Containers | 待补充 | 物品管理 | ✅ 兼容B42 |
-| Better Server Settings | 待补充 | 服务器管理 | ✅ 兼容B42 |
+| Equipment UI - Paper Doll Equipment Interface [B42/41] | 3147556298 | 装备界面 | ✅ 兼容B42/B41 |
+| [B42] Nested Containers | 2872282653 | 物品管理 | ✅ 兼容B42 |
+| Better Server Settings | 2872282653 | 服务器管理 | ✅ 兼容B42 |
 
 ## 🌾 农业/生物类模组
 
 | 模组名称 | Workshop ID | 类别 | 状态 |
 |---------|-------------|------|------|
 | [B42]ShelterHold : Beehive | 3596827035 | 蜜蜂养殖 | ✅ 兼容B42.13 |
-| [B42]舌尖上的中国 | 待补充 | 食物/农业 | ✅ 兼容B42.13.1 |
-| More Mre&Millitary foodV3 | 待补充 | 军用食物 | ✅ 兼容B42.13 |
+| [B42]舌尖上的中国 | 3508537032 | 食物/农业 | ✅ 兼容B42.13.1 |
+| More Mre&Millitary foodV3 | 2872282653 | 军用食物 | ✅ 兼容B42.13 |
 
 ## 🌐 本地化和修复类模组
 
@@ -70,7 +70,7 @@
 | B42简体中文修复 | 3386522562 | 中文本地化 | ✅ 兼容B42.13 |
 | [B42]统一·中文汉化 | 3556544454 | 中文本地化 | ✅ 兼容B42.13 |
 | [B42]统一·模组汉化 | 3556540080 | 模组本地化 | ✅ 兼容B42.13 |
-| [B42.13] Detailed Descriptions for Occupations and Traits | 待补充 | 游戏信息 | ✅ 兼容B42.13 |
+| [B42.13] Detailed Descriptions for Occupations and Traits | 2866258937 | 游戏信息 | ✅ 兼容B42.13 |
 
 ## 🧠 常识类模组
 
@@ -84,16 +84,16 @@
 
 | 模组名称 | Workshop ID | 类别 | 状态 |
 |---------|-------------|------|------|
-| Comfy Sleeping [B41 & B42] | 待补充 | 睡眠系统 | ✅ 兼容B42.13 |
-| Here Goes the Sun [MP42.13+] | 待补充 | 环境视觉效果 | ✅ 兼容B42.13 |
+| Comfy Sleeping [B41 & B42] | 2286124931 | 睡眠系统 | ✅ 兼容B42.13 |
+| Here Goes the Sun [MP42.13+] | 2896041179 | 环境视觉效果 | ✅ 兼容B42.13 |
 
 ## ⚙️ 系统功能类模组
 
 | 模组名称 | Workshop ID | 类别 | 状态 |
 |---------|-------------|------|------|
-| [B42] Water Pipes (aka Plumbing) | 待补充 | 建筑系统 | ✅ 兼容B42.13 |
+| [B42] Water Pipes (aka Plumbing) | 3317416792 | 建筑系统 | ✅ 兼容B42.13 |
 | [B42] Mod Manager | 3624320539 | 模组管理/系统功能 | ✅ 兼容B42.13，推荐20个以上模组时使用 |
-| Auto Tailoring | 待补充 | 自动裁缝 | ✅ 兼容B42.13 |
+| Auto Tailoring | 2897853885 | 自动裁缝 | ✅ 兼容B42.13 |
 
 ---
 

@@ -18,7 +18,7 @@
 
 | 模组名称 | Workshop ID | 链接 | Mod ID | 版本 | 状态 |
 |---------|------------|------|--------|------|------|
-| Comfy Sleeping [B41 & B42] | 待提供 | [链接待补充] | ComfySleeping | - | ✅ 兼容B42.13 |
+| Comfy Sleeping [B41 & B42] | 2286124931 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=2286124931) | ComfySleeping | - | ✅ 兼容B42.13 |
 
 **模组详情**
 
@@ -54,7 +54,7 @@
 
 | 模组名称 | Workshop ID | 链接 | Mod ID | 版本 | 状态 |
 |---------|------------|------|--------|------|------|
-| Here Goes the Sun [MP42.13+] | 待提供 | [链接待补充] | HereGoesTheSun | - | ✅ 兼容B42.13多游戏 |
+| Here Goes the Sun [MP42.13+] | 2896041179 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=2896041179) | HereGoesTheSun | - | ✅ 兼容B42.13多游戏 |
 
 **模组详情**
 

@@ -101,7 +101,7 @@
 #### 推荐系统模组
 | 模组名称 | Workshop ID | 主要功能 |
 |---------|------------|----------|
-| [B42] Water Pipes (aka Plumbing) | 待补充 | 建筑供水管道系统 |
+| [B42] Water Pipes (aka Plumbing) | 3317416792 | 建筑供水管道系统 |
 | [B42] Mod Manager | 3624320539 | 模组管理工具 |
 
 ### 7. [项目模组合集](./collection/README.md)
@@ -174,5 +174,7 @@
 - [Discord社区](https://discord.gg/BNNHuAyn) - 加入讨论和获取支持
 
 ---
+
+*最后更新：2025年12月21日*
 
 **[← 返回项目主页](./README.md)**

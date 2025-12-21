@@ -322,7 +322,7 @@ n## 兼容性补丁nn这些补丁主要用于为主流界面增强类模组提�
 
 | 模组名称 | Workshop ID | 链接 | Mod ID | 版本 | 状态 |
 |---------|------------|------|--------|------|------|
-| Equipment UI - Paper Doll Equipment Interface [B42/41] | 待提供 | [链接待补充] | Equipment_UI_Paper_Doll | - | ✅ 兼容B42/B41 |
+| Equipment UI - Paper Doll Equipment Interface [B42/41] | 3147556298 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3147556298) | Equipment_UI_Paper_Doll | - | ✅ 兼容B42/B41 |
 
 **模组详情**
 
@@ -356,7 +356,7 @@ n## 兼容性补丁nn这些补丁主要用于为主流界面增强类模组提�
 
 | 模组名称 | Workshop ID | 链接 | Mod ID | 版本 | 状态 |
 |---------|------------|------|--------|------|------|
-| [B42] Nested Containers | 待提供 | [链接待补充] | Nested_Containers | - | ✅ 兼容B42 |
+| [B42] Nested Containers | 2872282653 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=2872282653) | Nested_Containers | - | ✅ 兼容B42 |
 
 **模组详情**
 
@@ -391,7 +391,7 @@ n## 兼容性补丁nn这些补丁主要用于为主流界面增强类模组提�
 
 | 模组名称 | Workshop ID | 链接 | Mod ID | 版本 | 状态 |
 |---------|------------|------|--------|------|------|
-| Better Server Settings | 待提供 | [链接待补充] | Better_Server_Settings | - | ✅ 兼容B42 |
+| Better Server Settings | 2872282653 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=2872282653) | Better_Server_Settings | - | ✅ 兼容B42 |
 
 **模组详情**
 

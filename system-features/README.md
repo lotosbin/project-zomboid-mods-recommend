@@ -18,7 +18,7 @@
 
 | 模组名称 | Workshop ID | 链接 | Mod ID | 版本 | 状态 |
 |---------|------------|------|--------|------|------|
-| [B42] Water Pipes (aka Plumbing) | 待提供 | [链接待补充] | WaterPipes | B42.13 | ✅ 兼容B42.12和B42.13 |
+| [B42] Water Pipes (aka Plumbing) | 3317416792 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3317416792) | WaterPipes | B42.13 | ✅ 兼容B42.12和B42.13 |
 
 **模组详情**
 
@@ -159,7 +159,7 @@
 
 | 模组名称 | Workshop ID | 链接 | Mod ID | 版本 | 状态 |
 |---------|------------|------|--------|------|------|
-| Auto Tailoring | 待提供 | [链接待补充] | AutoTailoring | B42.13 | ✅ 兼容B42.13 |
+| Auto Tailoring | 2897853885 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=2897853885) | AutoTailoring | B42.13 | ✅ 兼容B42.13 |
 
 **模组详情**
 

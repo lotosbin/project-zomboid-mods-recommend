@@ -71,7 +71,7 @@
 
 | 模组名称 | Workshop ID | 链接 | Mod ID | 版本 | 状态 |
 |---------|------------|------|--------|------|------|
-| [B42]舌尖上的中国 | 待提供 | [链接待补充] | 待提供 | - | ✅ 兼容B42.13.1 |
+| [B42]舌尖上的中国 | 3508537032 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3508537032) | 待提供 | - | ✅ 兼容B42.13.1 |
 
 **模组详情**
 
@@ -104,7 +104,7 @@
 
 | 模组名称 | Workshop ID | 链接 | Mod ID | 版本 | 状态 |
 |---------|------------|------|--------|------|------|
-| More Mre&Millitary foodV3 | 待提供 | [链接待补充] | 待提供 | V3 | ✅ 兼容B42.13 |
+| More Mre&Millitary foodV3 | 2872282653 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=2872282653) | 待提供 | V3 | ✅ 兼容B42.13 |
 
 **模组详情**
 
