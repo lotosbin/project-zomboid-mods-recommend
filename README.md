@@ -13,7 +13,7 @@
 
 **[查看更新日志](./collection/updates.md)** - 记录合集中新增模组和版本变化的详细信息
 
-**最近更新**：2025年12月20日 - 检查并更新了Steam合集信息，模组数量从30个增加到36个，新增了技能追踪、管道系统、模组管理器等实用功能模组
+**最近更新**：2025年6月18日 - 检查并更新了Steam合集信息，模组数量从36个增加到39个（剔除补丁类依赖项后为36个），新增了装备界面、嵌套容器、自动裁缝和增强的服务器设置模组
 ## 📁 目录结构
 - [模组速览](./index.md) - 快速浏览所有收录模组
 
@@ -28,7 +28,7 @@
 - [其他类模组](./other/README.md) - 不属于特定类别的各种实用功能模组
 - [TODO: 待测试模组](./todo/README.md) - 计划测试和评估的热门Build 42模组列表
 - [生存和环境类模组](./survival-environment/README.md) - 睡眠系统、环境视觉效果等生存体验增强模组
-- [系统功能类模组](./system-features/README.md) - 建筑系统、模组管理等系统级功能模组
+- [系统功能类模组](./system-features/README.md) - 建筑系统、模组管理、自动裁缝等系统级功能模组
 - [项目模组合集](./collection/README.md) - 核心参考的B42.13模组合集
 - [模组使用指南](./mods.md) - 如何订阅和使用这些模组
 
@@ -153,6 +153,7 @@ Akyrohunter创作的一系列高质量的"传说"(Legendary)系列模组，为Pr
 ```
 project-zomboid-mods/
 ├── README.md                  # 项目主页
+├── index.md                   # 模组速览
 ├── mods.md                    # 模组使用指南
 ├── common-sense/              # 常识类模组
 │   └── README.md              # 贴合现实的改进和修复
@@ -166,6 +167,10 @@ project-zomboid-mods/
 │   └── README.md              # 不属于特定类别的各种实用功能模组
 ├── todo/                      # 待测试模组列表
 │   └── README.md              # 计划测试和评估的热门Build 42模组列表
+├── survival-environment/      # 生存和环境类模组
+│   └── README.md              # 睡眠系统、环境视觉效果等生存体验增强模组
+├── system-features/           # 系统功能类模组
+│   └── README.md              # 建筑系统、模组管理、自动裁缝等系统级功能模组
 ├── collection/                # 模组合集
 │   ├── README.md              # 核心参考的B42.13模组合集
 │   └── updates.md             # 合集更新日志
@@ -179,4 +184,5 @@ project-zomboid-mods/
         └── README.md
 ```
 
-*最后更新：2025年12月20日*
+*最后更新：2025年6月18日*
+*最后更新：2025年6月18日*

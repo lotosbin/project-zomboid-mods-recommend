@@ -7,17 +7,17 @@
 ### 合集信息
 - **名称**：bin^2的B42.13合集
 - **作者**：bin^2
-- **模组数量**：30个
-- **创作者**：多个 talented modders（喵了个球、Chuckleberry Finn、Rezistor、Rocco、Speedy Von Gofast、As1 Project、Afyrmo、Tchernobill、Akyrohunter、ardernord、Phoenix）
+- **模组数量**：36个（已剔除补丁类依赖项）
+- **创作者**：多个 talented modders（喵了个球、Chuckleberry Finn、Rezistor、Rocco、Speedy Von Gofast、As1 Project、Afyrmo、Tchernobill、Akyrohunter、ardernord、Phoenix、Notloc、Nikku Miru、Revan等）
 - **适用版本**：Project Zomboid Build 42.13
-- **最后更新**：2023年12月19日
+- **最后更新**：2023年12月20日（当前检查：2025年6月18日）
 - **订阅量**：持续增长中
 
 ### 合集分类概览
 
 该合集包含以下类别的模组：
 
-#### 界面增强类模组 (12个)
+#### 界面增强类模组 (15个)
 - [B42]ModernStatus V2.0
 - [B42]CleanUI V2.2
 - [B42]Clean HotBar v1.8
@@ -30,6 +30,9 @@
 - [B42.13] SimpleStatus-Fixed
 - [B41/42] Known And Collected
 - Quick Skill Tracker
+- Equipment UI - Paper Doll Equipment Interface [B42/41]
+- [B42] Nested Containers
+- Better Server Settings
 
 #### 本地化类模组 (3个)
 - B42简体中文修复
@@ -51,20 +54,47 @@
 - Consolidate All Fix (B42)
 - Neat Crafting & Neat Building - Addon XP Display
 
-#### 游戏体验优化模组 (4个)
+#### 游戏体验优化类模组 (4个)
 - [B42]Project Cook (New)V1.0
 - [B42]ShelterHold : Beehive
 - Fast Forward (MP) - Build 42
 - Legendary Katana
 - errorMagnifier
 
+#### 界面增强模组新增项 (3个)
+- Equipment UI - Paper Doll Equipment Interface [B42/41]
+  - 作者：Notloc
+  - 功能：添加一个纸质玩偶风格（类似STALKER/tArKov）的装备界面，用于管理和查看角色装备
+  - 状态：✅ 兼容B42/B41
+  - 分类：界面增强/装备管理
+
+- [B42] Nested Containers
+  - 作者：Nikku Miru
+  - 功能：允许直接查看背包内其他容器的物品，无需先取出容器
+  - 状态：✅ 兼容B42
+  - 分类：界面增强/物品管理
+
+- Better Server Settings
+  - 作者：Revan
+  - 功能：增强服务器设置界面，提供更多配置选项和更好的管理功能
+  - 状态：✅ 兼容B42
+  - 分类：界面增强/服务器管理
+
+#### 系统功能模组新增项 (1个)
+- Auto Tailoring
+  - 作者：Tchernobill
+  - 功能：自动裁缝训练，轻松修复和补丁衣物，自动检测破损和缺失补丁
+  - 状态：✅ 兼容B42
+  - 分类：系统功能/自动裁缝
+
 #### 生存和环境模组 (2个)
 - Comfy Sleeping [B41 & B42]
 - Here Goes the Sun [MP42.13+]
 
-#### 系统功能模组 (2个)
+#### 系统功能模组 (3个)
 - [B42] Water Pipes (aka Plumbing)
 - [B42] Mod Manager
+- Auto Tailoring
 
 #### 食物和文化模组 (2个)
 
@@ -93,15 +123,16 @@
 
 | 类别 | 数量 | 主要功能 |
 |-----|------|----------|
-| 界面增强类 | 12 | UI重设计、交互优化、状态显示、食物交互、技能追踪、收藏管理 |
+| 界面增强类 | 15 | UI重设计、交互优化、状态显示、食物交互、技能追踪、收藏管理、装备界面、嵌套容器、服务器设置 |
 | 本地化类 | 3 | 中文翻译、语言支持 |
 | 游戏信息增强类 | 4 | 问题修复、UI优化、原料管理、游戏信息 |
 | 控制器支持 | 1 | 手柄适配、Steam Deck兼容 |
-| 兼容性补丁 | 1 | 已归类到对应的主模组中 |
-| 游戏体验优化类 | 4 | 游戏机制、烹饪、时间控制、装备管理 |
+| 游戏体验优化类 | 5 | 装备管理、自动裁缝、游戏机制、烹饪、时间控制 |
 | 生存和环境类 | 2 | 睡眠系统、环境视觉效果 |
-| 系统功能类 | 2 | 建筑系统、模组管理 |
+| 系统功能类 | 3 | 建筑系统、模组管理、自动裁缝 |
 | 食物和文化类 | 2 | 中式美食、军用食品 |
+| 其他类 | 1 | 错误报告工具 |
+| **总计** | **36** | **剔除补丁类依赖项后的有效模组** |
 
 ### 模组加载顺序建议
 
@@ -134,6 +165,7 @@
 - [农业/生物类模组详情](../farming/README.md)
 - [常识类模组详情](../common-sense/README.md)
 - [传说系列模组详情](../legendary-series/README.md)
+- [系统功能类模组详情](../system-features/README.md)
 
 ---
 

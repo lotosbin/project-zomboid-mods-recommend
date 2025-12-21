@@ -1,54 +1,178 @@
-# Project Zomboid 模组列表
+# Project Zomboid 模组使用指南
 
-## Akyrohunter的传说系列
+## 📚 项目概述
 
-Akyrohunter创建的一系列高质量的"传说"(Legendary)系列模组，为Project Zomboid添加了各种传说级别的物品和装备。
+本指南旨在帮助您了解如何订阅、安装和使用 Project Zomboid 模组。我们的项目收集整理了各种优质模组信息，特别基于 **[bin^2的B42.13合集](https://steamcommunity.com/sharedfiles/filedetails/?id=3624259825)**，为您的僵尸末日生存体验增添更多乐趣。
 
-**[查看完整的传说系列模组文档](./legendary-series/README.md)**
+## 🚀 快速入门
 
-### 快速导航
+### 订阅 Steam 模组
+
+1. 打开 Steam 客户端
+2. 在库中右键点击 "Project Zomboid"
+3. 选择 "浏览本地文件"
+4. 启动游戏
+5. 在主菜单点击 "工作室" 或在游戏设置中点击 "模组"
+
+**或者**直接访问我们的 [模组合集](./collection/README.md)，一键订阅所有推荐的模组。
+
+### 激活和使用模组
+
+1. 在 Project Zomboid 主菜单，点击 "选项"
+2. 选择 "模组" 选项卡
+3. 启用您已订阅的模组
+4. 点击 "确定" 保存设置
+5. 开始新游戏或加载现有存档
+
+## 📁 模组分类
+
+我们的项目将模组分为以下几个主要类别：
+
+### 1. [传说系列模组](./legendary-series/README.md)
+由 Akyrohunter 创作的高质量传说系列模组，添加各种传说级别的武器、背包和装备。
+
+#### 快速导航
 - [武器类模组](./legendary-series/weapons/README.md)
 - [背包和容器类模组](./legendary-series/containers/README.md)
 - [服装/配饰类模组](./legendary-series/clothing/README.md)
 
-### 传说系列模组概览
+#### 传说系列模组概览
 
-| 模组名称 | Workshop ID | 链接 | 类别 |
+| 模组名称 | Workshop ID | 类别 | 状态 |
 |---------|------------|------|------|
-| Legendary Naginata | 3580577925 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3580577925) | 武器 |
-| Legendary Tactical Knife | 3575320927 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3575320927) | 武器 |
-| Legendary Katana | 3418366499 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3418366499) | 武器 |
-| Legendary Satchel | 3560352772 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3560352772) | 背包/容器 |
-| Legendary DuffelBag | 3558839307 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3558839307) | 背包/容器 |
-| Legendary Fanny Pack | 3552050880 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3552050880) | 背包/容器 |
-| Legendary Backpacks | 3538353228 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3538353228) | 背包/容器 |
-| Legendary Cap | 3549294472 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3549294472) | 服装/配饰 |
+| Legendary Naginata | 3580577925 | 武器 | ✅ 已更新至B42.13 |
+| Legendary Tactical Knife | 3575320927 | 武器 | ✅ 已更新至B42.13 |
+| Legendary Katana | 3418366499 | 武器 | ✅ 已更新至B42.13 |
+| Legendary Satchel | 3560352772 | 背包/容器 | ✅ 已更新至B42.13 |
+| Legendary DuffelBag | 3558839307 | 背包/容器 | ✅ 已更新至B42.13 |
+| Legendary Fanny Pack | 3552050880 | 背包/容器 | ✅ 已更新至B42.13 |
+| Legendary Backpacks | 3538353228 | 背包/容器 | ✅ 已更新至B42.13 |
+| Legendary Cap | 3549294472 | 服装/配饰 | ✅ 已更新至B42.13 |
 
-## 传说系列特点
+#### 传说系列特点
+- 高品质外观和纹理
+- 多种颜色自定义选项
+- 完整的制作系统和升级路线
+- 可通过沙盒模式调整参数
+- 多语言支持，包括中文
 
-所有传说系列模组具有以下共同特点：
+### 2. [界面增强类模组](./interface-enhancement/README.md)
+专注于改进 UI/UX 的模组，让游戏界面更加直观和高效。
 
-1. **高品质外观**：所有物品都具有精美的纹理和视觉效果
-2. **自定义颜色**：许多物品可以涂成多种颜色（通常有10种颜色可选）
-3. **制作系统**：通过杂志找到配方或升级相关技能来制作
-4. **可定制选项**：可通过沙盒模式调整耐久度、掉落概率等参数
-5. **多语言支持**：支持多种语言，包括英语、西班牙语、德语、法语、俄语、韩语、泰语、中文等
-6. **材质系统**：物品具有粗糙、精制和传说三种材质等级
-7. **维护系统**：可以使用合适的工具进行修复和维护
+#### 推荐界面模组
+| 模组名称 | 主要功能 |
+|---------|----------|
+| [B42]CleanUI V2.3 | 重设计的库存界面 |
+| [B42]ModernStatus V2.0 | 现代化的状态指示器 |
+| Smart Radial Menu | 智能径向菜单 |
+| [B42]Neat Crafting V1.5 | 优化的制作界面 |
 
-## 关于Build 42.13兼容性
+### 3. [常识类模组](./common-sense/README.md)
+提高游戏体验的常识/生活质量模组，使游戏更加符合现实逻辑。
 
-截至2023年12月，Akyrohunter正在努力更新整个传说系列以兼容Build 42.13。部分模组已更新，其他模组将在近期跟进。由于个人时间限制，更新可能需要一些时间。
+#### 推荐常识模组
+| 模组名称 | 主要功能 |
+|---------|----------|
+| Read While Walking | 边走边读书 |
+| [B42.13] Fruits in jars | 果酱和罐头食品系统 |
+| Fast Forward (MP) | 时间快进功能（多人兼容） |
 
-## 如何使用这些模组
+### 4. [农业/生物类模组](./farming/README.md)
+扩展农业、养殖和生物资源管理的模组，提供更丰富的食物来源。
 
-1. 从上面的分类页面找到您感兴趣的模组
-2. 点击Workshop链接访问模组页面
-3. 点击"Subscribe"(订阅)按钮
-4. 启动Project Zomboid
-5. 在游戏设置中启用订阅的模组
-6. 开始游戏并享受增强的游戏体验！
+#### 推荐农业模组
+| 模组名称 | 主要功能 |
+|---------|----------|
+| [B42]ShelterHold : Beehive | 蜜蜂养殖系统 |
+| [B42]舌尖上的中国 | 中式食品和酿酒系统 |
 
-## 其他模组
+### 5. [本地化和修复类模组](./localization-and-patches/README.md)
+提供语言本地化、兼容性补丁和问题修复，让游戏体验更加稳定。
 
-*本文档主要关注Akyrohunter的传说系列模组。未来将添加更多Project Zomboid模组信息。*
+#### 推荐本地化模组
+| 模组名称 | 主要功能 |
+|---------|----------|
+| B42简体中文修复 | 游戏内文本本地化 |
+| [B42]统一·中文汉化 | 全面中文本地化 |
+
+### 6. [系统功能类模组](./system-features/README.md)
+扩展游戏基础系统的模组，如建筑系统、模组管理等系统级功能。
+
+#### 推荐系统模组
+| 模组名称 | 主要功能 |
+|---------|----------|
+| [B42] Water Pipes (aka Plumbing) | 建筑供水管道系统 |
+| [B42] Mod Manager | 模组管理工具 |
+
+### 7. [项目模组合集](./collection/README.md)
+我们收集整理并精心配置的 B42.13 兼容模组组合，经过测试确保良好的协同工作。
+
+## 🔧 模组安装和管理
+
+### 模组加载顺序
+
+正确的模组加载顺序对避免冲突至关重要：
+
+1. **框架和基础模组** (如 NeatUI Framework)
+2. **主要功能模组** (如 Neat Crafting, CleanUI)
+3. **扩展组件和插件** (如 XP Display 增强版)
+4. **修复补丁** (B42.13 兼容性补丁)
+5. **语言本地化** (中文汉化等)
+
+### 排除常见问题
+
+1. **崩溃问题**
+   - 检查模组兼容性
+   - 确保正确的加载顺序
+   - 尝试禁用最近添加的模组
+
+2. **性能影响**
+   - 减少同时启用的模组数量
+   - 避免大量视觉效果增强模组
+   - 检查特定模组是否有性能优化选项
+
+3. **多人游戏问题**
+   - 确保所有玩家使用完全相同的模组组合
+   - 使用服务器模组而不是本地模组
+   - 检查多人游戏兼容性说明
+
+### 模组维护建议
+
+1. **定期更新**：保持模组处于最新版本，特别是在游戏更新后
+2. **备份存档**：在添加新模组前备份重要存档
+3. **逐步添加**：一次添加少量模组，便于定位问题
+4. **查阅日志**：遇到问题时查看控制台日志文件
+
+## 🎯 模组推荐路线
+
+### 新手玩家推荐
+1. CleanUI - 改进库存管理
+2. ModernStatus - 更清晰的状态显示
+3. B42简体中文修复 - 本地化支持
+4. Read While Walking - 提升便利性
+5. Fast Forward (MP) - 时间控制
+
+### 进阶玩家推荐
+1. Neat系列界面 - 专业化的界面管理
+2. [B42] Water Pipes - 基础设施建设
+3. [B42]舌尖上的中国 - 更多农业和食物选择
+4. Auto Tailoring - 自动化装备维护
+5. [B42] Mod Manager - 模组管理工具
+
+### 硬核生存玩家推荐
+1. 传说系列武器和装备 - 高级生存装备
+2. [B42] Nested Containers - 复杂物品管理
+3. Comfy Sleeping - 更真实的睡眠系统
+4. Here Goes the Sun - 环境变化
+5. Better Server Settings - 服务器自定义（多人）
+
+## 📖 更多资源
+
+- [完整模组列表](./index.md) - 所有已收录模组的快速概览
+- [模组合集更新日志](./collection/updates.md) - 最新变化和更新信息
+- [项目主页](./README.md) - 项目整体概述和导航
+- [Discord社区](https://discord.gg/BNNHuAyn) - 加入讨论和获取支持
+
+---
+
+**[← 返回项目主页](./README.md)**
