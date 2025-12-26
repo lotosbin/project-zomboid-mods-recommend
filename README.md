@@ -7,13 +7,13 @@
 
 ## 🎯 项目模组合集
 
-项目的核心参考模组合集为 **[bin^2的B42.13合集](https://steamcommunity.com/sharedfiles/filedetails/?id=3624259825)**，这是一个精心挑选的B42.13兼容模组集合，包含36个高质量的模组，涵盖了界面增强、本地化、兼容性修复等多个类别。
+项目的核心参考模组合集为 **[bin^2的B42.13合集](https://steamcommunity.com/sharedfiles/filedetails/?id=3624259825)**，这是一个精心挑选的B42.13.1兼容模组集合，包含61个高质量的模组（54个核心模组，已剔除补丁类依赖项），涵盖了界面增强、本地化、系统功能、游戏机制等多个类别。
 
 定期从该合集更新模组信息，确保文档始终反映最新的模组版本和兼容性状态。
 
 **[查看更新日志](./collection/updates.md)** - 记录合集中新增模组和版本变化的详细信息
 
-**最近更新**：2025年12月21日 - 检查了Steam合集信息，模组数量保持39个（合集总数）/ 36个（已剔除补丁类依赖项），所有模组状态保持不变
+**最近更新**：2025年12月26日 - 检查了Steam合集信息，模组数量从39个增加到61个（合集总数）/ 54个（核心模组，已剔除补丁类依赖项），新增了多个功能类别的模组，部分模组在B42.13.1版本下需要兼容性补丁
 ## 📁 目录结构
 - [模组速览](./index.md) - 快速浏览所有收录模组
 
@@ -29,7 +29,8 @@
 - [TODO: 待测试模组](./todo/README.md) - 计划测试和评估的热门Build 42模组列表
 - [生存和环境类模组](./survival-environment/README.md) - 睡眠系统、环境视觉效果等生存体验增强模组
 - [系统功能类模组](./system-features/README.md) - 建筑系统、模组管理、自动裁缝等系统级功能模组
-- [项目模组合集](./collection/README.md) - 核心参考的B42.13模组合集
+- [角色和外观类模组](./character-appearance/README.md) - 角色体型变化、外观定制等视觉定制模组
+- [项目模组合集](./collection/README.md) - 核心参考的B42.13.1模组合集
 - [模组使用指南](./mods.md) - 如何订阅和使用这些模组
 - [模组依赖关系](./mod-dependencies.md) - 详细的模组依赖分析和加载顺序
 - [模组依赖关系图](./mod-dependencies-graph.md) - 可视化的模组依赖关系图
@@ -42,14 +43,14 @@ Akyrohunter创作的一系列高质量的"传说"(Legendary)系列模组，为Pr
 
 | 模组名称 | Workshop ID | 链接 | 类别 | 状态 |
 |---------|------------|------|------|------|
-| Legendary Naginata | 3580577925 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3580577925) | 武器 | ✅ 已更新至B42.13 |
-| Legendary Tactical Knife | 3575320927 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3575320927) | 武器 | ✅ 已更新至B42.13 |
-| Legendary Katana | 3418366499 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3418366499) | 武器 | ✅ 已更新至B42.13 |
-| Legendary Satchel | 3560352772 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3560352772) | 背包/容器 | ✅ 已更新至B42.13 |
-| Legendary DuffelBag | 3558839307 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3558839307) | 背包/容器 | ✅ 已更新至B42.13 |
-| Legendary Fanny Pack | 3552050880 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3552050880) | 背包/容器 | ✅ 已更新至B42.13 |
-| Legendary Backpacks | 3538353228 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3538353228) | 背包/容器 | ✅ 已更新至B42.13 |
-| Legendary Cap | 3549294472 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3549294472) | 服装/配饰 | ✅ 已更新至B42.13 |
+| Legendary Naginata | 3580577925 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3580577925) | 武器 | ✅ 已更新至B42.13.1 |
+| Legendary Tactical Knife | 3575320927 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3575320927) | 武器 | ✅ 已更新至B42.13.1 |
+| Legendary Katana | 3418366499 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3418366499) | 武器 | ✅ 已更新至B42.13.1 |
+| Legendary Satchel | 3560352772 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3560352772) | 背包/容器 | ✅ 已更新至B42.13.1 |
+| Legendary DuffelBag | 3558839307 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3558839307) | 背包/容器 | ✅ 已更新至B42.13.1 |
+| Legendary Fanny Pack | 3552050880 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3552050880) | 背包/容器 | ✅ 已更新至B42.13.1 |
+| Legendary Backpacks | 3538353228 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3538353228) | 背包/容器 | ✅ 已更新至B42.13.1 |
+| Legendary Cap | 3549294472 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3549294472) | 服装/配饰 | ✅ 已更新至B42.13.1 |
 
 ### 传说系列特点
 
@@ -70,8 +71,8 @@ Akyrohunter创作的一系列高质量的"传说"(Legendary)系列模组，为Pr
 | 模组名称 | Workshop ID | 链接 | 类别 | 状态 |
 |---------|------------|------|------|------|
 | Read While Walking (含B42.13补丁) | 2845952197 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=2845952197) | 实用工具 | ⚠️ B42.13需补丁 |
-| [B42.13] Fruits in jars | 3432006285 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3432006285) | 食物/储藏 | ✅ 兼容B42.13 |
-| Fast Forward (MP) - Build 42 | 3623959321 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3623959321) | 时间管理 | ✅ 兼容B42.13 |
+| [B42.13] Fruits in jars | 3432006285 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3432006285) | 食物/储藏 | ✅ 兼容B42.13.1 |
+| Fast Forward (MP) - Build 42 | 3623959321 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3623959321) | 时间管理 | ✅ 兼容B42.13.1 |
 
 [查看更多常识类模组](./common-sense/README.md)
 
@@ -82,15 +83,15 @@ Akyrohunter创作的一系列高质量的"传说"(Legendary)系列模组，为Pr
 | 模组名称 | Workshop ID | 链接 | 类别 | 状态 |
 |---------|------------|------|------|------|
 | [B42]CleanUI V2.3 (含扩展) | 3437629766 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3437629766) | 界面优化 | ✅ 兼容B42.13.1 |
-| Smart Radial Menu | 3494108029 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3494108029) | 交互优化 | ✅ 兼容B42.13 |
-| [B42]Clean HotBar v1.8 | 3461263912 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3461263912) | 快捷栏优化 | ✅ 兼容B42.13 |
+| Smart Radial Menu | 3494108029 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3494108029) | 交互优化 | ✅ 兼容B42.13.1 |
+| [B42]Clean HotBar v1.8 | 3461263912 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3461263912) | 快捷栏优化 | ✅ 兼容B42.13.1 |
 | [B42]Neat Crafting V1.5 (含补丁) | 3502080466 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3502080466) | 制作界面 | ⚠️ B42.13需补丁 |
-| [B42]Neat Building + More Buildings V1.4 | 3536052310 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3536052310) | 建造界面 | ✅ 兼容B42.13 |
-| [B42]Project Cook (New)V1.0 | 3490188370 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3490188370) | 烹饪界面 | ✅ 兼容B42.13 |
-| [B42]ModernStatus V2.0 | 3451167732 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3451167732) | 状态指示器 | ✅ 兼容B42.13 |
-| Neat Crafting & Neat Building - Addon XP Display | 3540503606 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3540503606) | 经验值显示 | ✅ 兼容B42.13 |
-| [b42]The Shortcut | 3470659758 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3470659758) | 快捷工具栏 | ✅ 兼容B42.13 |
-| Eat whole stack | 3617669428 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3617669428) | 食物交互 | ✅ 兼容B42.13 |
+| [B42]Neat Building + More Buildings V1.4 | 3536052310 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3536052310) | 建造界面 | ✅ 兼容B42.13.1 |
+| [B42]Project Cook (New)V1.0 | 3490188370 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3490188370) | 烹饪界面 | ✅ 兼容B42.13.1 |
+| [B42]ModernStatus V2.0 | 3451167732 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3451167732) | 状态指示器 | ✅ 兼容B42.13.1 |
+| Neat Crafting & Neat Building - Addon XP Display | 3540503606 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3540503606) | 经验值显示 | ✅ 兼容B42.13.1 |
+| [b42]The Shortcut | 3470659758 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3470659758) | 快捷工具栏 | ✅ 兼容B42.13.1 |
+| Eat whole stack | 3617669428 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3617669428) | 食物交互 | ✅ 兼容B42.13.1 |
 | [B41/42] Known And Collected | 待提供 | [链接待补充] | 收藏管理 | ⚠️ B42.13需补丁 |
 
 [查看更多界面增强模组](./interface-enhancement/README.md)
@@ -103,7 +104,7 @@ Akyrohunter创作的一系列高质量的"传说"(Legendary)系列模组，为Pr
 |---------|------------|------|------|------|
 | [B42]ShelterHold : Beehive (含B42.13补丁) | 3596827035 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3596827035) | 蜜蜂养殖 | ⚠️ B42.13需补丁 |
 | [B42]舌尖上的中国 | (待提供) | [链接待补充] | 食物/农业 | ✅ 兼容B42.13.1 |
-| More Mre&Millitary foodV3 | (待提供) | [链接待补充] | 食物 | ✅ 兼容B42.13 |
+| More Mre&Millitary foodV3 | (待提供) | [链接待补充] | 食物 | ✅ 兼容B42.13.1 |
 
 [查看更多农业/生物类模组](./farming/README.md)
 
@@ -114,9 +115,9 @@ Akyrohunter创作的一系列高质量的"传说"(Legendary)系列模组，为Pr
 | 模组名称 | Workshop ID | 链接 | 类别 | 状态 |
 |---------|------------|------|------|------|
 
-| B42简体中文修复 | 3386522562 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3386522562) | 中文本地化 | ✅ 兼容B42.13 |
-| [B42]统一·中文汉化 | 3556544454 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3556544454) | 中文本地化 | ✅ 兼容B42.13 |
-| [B42]统一·模组汉化 | 3556540080 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3556540080) | 模组本地化 | ✅ 兼容B42.13 |
+| B42简体中文修复 | 3386522562 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3386522562) | 中文本地化 | ✅ 兼容B42.13.1 |
+| [B42]统一·中文汉化 | 3556544454 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3556544454) | 中文本地化 | ✅ 兼容B42.13.1 |
+| [B42]统一·模组汉化 | 3556540080 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3556540080) | 模组本地化 | ✅ 兼容B42.13.1 |
 
 [查看更多本地化和修复类模组](./localization-and-patches/README.md)
 
@@ -129,9 +130,9 @@ Akyrohunter创作的一系列高质量的"传说"(Legendary)系列模组，为Pr
 5. 在游戏设置中启用订阅的模组
 6. 开始游戏并享受增强的游戏体验！
 
-## 📝 关于Build 42.13兼容性
+## 📝 关于Build 42.13.1兼容性
 
-截至2023年12月，Akyrohunter正在努力更新整个传说系列以兼容Build 42.13。部分模组已更新，其他模组将在近期跟进。由于个人时间限制，更新可能需要一些时间。
+截至2023年12月，Akyrohunter正在努力更新整个传说系列以兼容Build 42.13.1。部分模组已更新，其他模组将在近期跟进。由于个人时间限制，更新可能需要一些时间。
 
 ## 🤝 贡献
 
@@ -171,8 +172,10 @@ project-zomboid-mods/
 │   └── README.md              # 计划测试和评估的热门Build 42模组列表
 ├── survival-environment/      # 生存和环境类模组
 │   └── README.md              # 睡眠系统、环境视觉效果等生存体验增强模组
-| system-features/           | 系统功能类模组
+| system-features/            | 系统功能类模组
 │   └── README.md              | 建筑系统、模组管理、自动裁缝等系统级功能模组
+| character-appearance/        | 角色和外观类模组
+│   └── README.md              | 角色体型变化、外观定制等视觉定制模组
 ├── mod-dependencies.md      # 模组依赖关系分析
 ├── mod-dependencies-graph.md # 模组依赖关系可视化图表
 ├── collection/                # 模组合集
@@ -188,4 +191,4 @@ project-zomboid-mods/
         └── README.md
 ```
 
-*最后更新：2025年12月21日*
+*最后更新：2025年12月26日*
