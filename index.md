@@ -11,6 +11,9 @@
 - [常识类模组](#-常识类模组)
 - [生存和环境类模组](#-生存和环境类模组)
 - [系统功能类模组](#-系统功能类模组)
+- [音频和娱乐类模组](#-音频和娱乐类模组)
+- [游戏机制修复类模组](#-游戏机制修复类模组)
+- [健康系统类模组](#-健康系统类模组)
 
 ## ⚔️ 传说系列模组
 
@@ -95,6 +98,26 @@
 | [B42] Mod Manager | 3624320539 | 模组管理/系统功能 | ✅ 兼容B42.13，推荐20个以上模组时使用 |
 | Auto Tailoring | 2897853885 | 自动裁缝 | ✅ 兼容B42.13 |
 
+## 🎵 音频和娱乐类模组
+
+| 模组名称 | Workshop ID | 类别 | 状态 |
+|---------|-------------|------|------|
+| True Music Radio B42 MP+ | 待补充 | 音乐电台 | ✅ 兼容B42多人游戏 |
+| True Music CN | 2957823594 | 中文音乐 | ✅ 兼容B42 |
+
+## 🔧 游戏机制修复类模组
+
+| 模组名称 | Workshop ID | 类别 | 状态 |
+|---------|-------------|------|------|
+| CookingSync - Multiplayer Cooking Fix [v5.0] | 待补充 | 多人烹饪修复 | ✅ 兼容B42 |
+| Rip All Clothes | 待补充 | 衣物撕裂 | ✅ 兼容B42多人游戏 |
+
+## 🏥 健康系统类模组
+
+| 模组名称 | Workshop ID | 类别 | 状态 |
+|---------|-------------|------|------|
+| [B42.13]Realistic Disease Mod | 待补充 | 疾病系统 | ✅ 兼容B42.13 |
+
 ---
 
-**[← 返回项目主页](README.md)** | **[界面增强类模组详情](./interface-enhancement/README.md)** | **[常识类模组详情](./common-sense/README.md)** | **[农业/生物类模组详情](./farming/README.md)** | **[本地化和修复类模组详情](./localization-and-patches/README.md)** | **[生存和环境类模组详情](./survival-environment/README.md)** | **[系统功能类模组详情](./system-features/README.md)** | **[项目模组合集](./collection/README.md)** | **[传说系列模组详情](./legendary-series/README.md)**
+**[← 返回项目主页](README.md)** | **[界面增强类模组详情](./interface-enhancement/README.md)** | **[常识类模组详情](./common-sense/README.md)** | **[农业/生物类模组详情](./farming/README.md)** | **[本地化和修复类模组详情](./localization-and-patches/README.md)** | **[生存和环境类模组详情](./survival-environment/README.md)** | **[系统功能类模组详情](./system-features/README.md)** | **[音频和娱乐类模组详情](./audio-and-entertainment/README.md)** | **[游戏机制修复类模组详情](./game-mechanics-fixes/README.md)** | **[健康系统类模组详情](./health-system/README.md)** | **[项目模组合集](./collection/README.md)** | **[传说系列模组详情](./legendary-series/README.md)**

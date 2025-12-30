@@ -7,13 +7,13 @@
 
 ## 🎯 项目模组合集
 
-项目的核心参考模组合集为 **[bin^2的B42.13合集](https://steamcommunity.com/sharedfiles/filedetails/?id=3624259825)**，这是一个精心挑选的B42.13.1兼容模组集合，包含61个高质量的模组（54个核心模组，已剔除补丁类依赖项），涵盖了界面增强、本地化、系统功能、游戏机制等多个类别。
+项目的核心参考模组合集为 **[bin^2的B42.13合集](https://steamcommunity.com/sharedfiles/filedetails/?id=3624259825)**，这是一个精心挑选的B42.13.1兼容模组集合，包含66个高质量的模组（59个核心模组，已剔除补丁类依赖项），涵盖了界面增强、本地化、系统功能、游戏机制等多个类别。
 
 定期从该合集更新模组信息，确保文档始终反映最新的模组版本和兼容性状态。
 
 **[查看更新日志](./collection/updates.md)** - 记录合集中新增模组和版本变化的详细信息
 
-**最近更新**：2025年12月26日 - 检查了Steam合集信息，模组数量从39个增加到61个（合集总数）/ 54个（核心模组，已剔除补丁类依赖项），新增了多个功能类别的模组，部分模组在B42.13.1版本下需要兼容性补丁
+**最近更新**：2025年12月30日 - 检查了Steam合集信息，模组数量从61个增加到66个（合集总数）/ 59个（核心模组，已剔除补丁类依赖项），新增了音频娱乐、游戏机制修复等5个模组，并创建了新的分类目录
 ## 📁 目录结构
 - [模组速览](./index.md) - 快速浏览所有收录模组
 
@@ -29,7 +29,10 @@
 - [TODO: 待测试模组](./todo/README.md) - 计划测试和评估的热门Build 42模组列表
 - [生存和环境类模组](./survival-environment/README.md) - 睡眠系统、环境视觉效果等生存体验增强模组
 - [系统功能类模组](./system-features/README.md) - 建筑系统、模组管理、自动裁缝等系统级功能模组
-- [角色和外观类模组](./character-appearance/README.md) - 角色体型变化、外观定制等视觉定制模组
+- [角色/外观类模组](./character-appearance/README.md) - 角色体型变化、外观定制等视觉定制模组
+- [音频和娱乐类模组](./audio-and-entertainment/README.md) - 音乐电台、音频增强等娱乐模组
+- [游戏机制修复类模组](./game-mechanics-fixes/README.md) - 修复游戏机制问题的优化模组
+- [健康系统类模组](./health-system/README.md) - 疾病系统和健康机制增强模组
 - [项目模组合集](./collection/README.md) - 核心参考的B42.13.1模组合集
 - [模组使用指南](./mods.md) - 如何订阅和使用这些模组
 - [模组依赖关系](./mod-dependencies.md) - 详细的模组依赖分析和加载顺序
@@ -172,12 +175,18 @@ project-zomboid-mods/
 │   └── README.md              # 计划测试和评估的热门Build 42模组列表
 ├── survival-environment/      # 生存和环境类模组
 │   └── README.md              # 睡眠系统、环境视觉效果等生存体验增强模组
-| system-features/            | 系统功能类模组
-│   └── README.md              | 建筑系统、模组管理、自动裁缝等系统级功能模组
-| character-appearance/        | 角色和外观类模组
-│   └── README.md              | 角色体型变化、外观定制等视觉定制模组
-├── mod-dependencies.md      # 模组依赖关系分析
-├── mod-dependencies-graph.md # 模组依赖关系可视化图表
+├── system-features/           # 系统功能类模组
+│   └── README.md              # 建筑系统、模组管理、自动裁缝等系统级功能模组
+├── character-appearance/      # 角色/外观类模组
+│   └── README.md              # 角色体型变化、外观定制等视觉定制模组
+├── audio-and-entertainment/   # 音频和娱乐类模组
+│   └── README.md              # 音乐电台、音频增强等娱乐模组
+├── game-mechanics-fixes/      # 游戏机制修复类模组
+│   └── README.md              # 修复游戏机制问题的优化模组
+├── health-system/             # 健康系统类模组
+│   └── README.md              # 疾病系统和健康机制增强模组
+├── mod-dependencies.md        # 模组依赖关系分析
+├── mod-dependencies-graph.md  # 模组依赖关系可视化图表
 ├── collection/                # 模组合集
 │   ├── README.md              # 核心参考的B42.13模组合集
 │   └── updates.md             # 合集更新日志
@@ -191,4 +200,4 @@ project-zomboid-mods/
         └── README.md
 ```
 
-*最后更新：2025年12月26日*
+*最后更新：2025年12月30日*
