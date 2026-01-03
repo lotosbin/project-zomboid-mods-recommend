@@ -7,7 +7,7 @@
 ### 合集信息
 - **名称**：bin^2的B42.13合集
 - **作者**：bin^2
-- **模组数量**：66个（合集总数）/ 36个（核心模组，已剔除补丁类依赖项）
+- **模组数量**：66个（合集总数）/ 59个（核心模组，已剔除补丁类依赖项）
 - **创作者**：多个 talented modders（喵了个球、Chuckleberry Finn、Rezistor、Rocco、Speedy Von Gofast、As1 Project、Afyrmo、Tchernobill、Akyrohunter、ardernord、Phoenix、Notloc、Nikku Miru、Revan等）
 - **适用版本**：Project Zomboid Build 42.13/42.13.1
 - **最后更新**：2023年12月28日（当前检查：2025年12月30日）

@@ -9,7 +9,7 @@
 ### 1. True Music Radio B42 MP+
 
 - **作者**：norby007
-- **Workshop ID**：待补充
+- **Workshop ID**：2948224756
 - **功能**：添加音乐电台，包含三个默认电台，每个电台播放不同的播放列表
 - **默认电台**：
   - 92FM：从全局列表或Terminal A播放列表播放

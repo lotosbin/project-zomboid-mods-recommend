@@ -9,6 +9,7 @@
 ### 1. [B42.13]Realistic Disease Mod
 
 - **作者**：KingYufka
+- **Workshop ID**：3804257569
 - **功能**：扩展Project Zomboid的疾病系统，增加基于真实医学原因、症状和环境因素的详细疾病机制
 - **特点**：
   - 基于真实医学原因、症状和环境因素的疾病系统
