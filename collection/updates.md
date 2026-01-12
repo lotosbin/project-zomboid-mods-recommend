@@ -5,20 +5,100 @@
 本文档记录了我们的核心参考模组合集 **[bin^2的B42.13合集](https://steamcommunity.com/sharedfiles/filedetails/?id=3624259825)** 的更新情况，包括新增模组、版本更新和兼容性变化。
 
 ## 最新更新检查时间
-2025年12月30日
+2025年12月30日 → 2025年12月31日
 
 ### 当前合集信息
 - **作者**：bin^2
-- **模组数量**：66个（合集总数）/ 待分类
-- **适用版本**：Project Zomboid Build 42.13
-- **最后更新**：2023年12月28日（当前检查：2025年12月30日）
+- **模组数量**：93个（合集总数）/ 待分类
+- **适用版本**：Project Zomboid Build 42.13.1
+- **最后更新**：2023年12月28日（当前检查：2025年12月31日）
 
 ## 新增/变化模组（自上次检查）
 
-### 2025年12月30日检查
-- **检查结果**：合集中模组数量从61个增加到66个，新增5个模组
+### 2025年12月31日检查
+- **检查结果**：合集中模组数量从66个增加到93个，新增27个模组
 - **模组状态**：部分模组在B42.13.1版本下被标记为[Broken on 13.1]，需要补丁或更新
-- **注意事项**：新增模组包括了音频、游戏机制修复等内容，同时也标记了已知兼容性问题
+- **注意事项**：新增模组包括了更多功能增强、多人游戏修复和内容扩展
+
+#### 新增模组（2025年12月31日检查）
+
+#### 1. True Music Jukebox B42
+- **作者**：norby007
+- **功能**：为B42版本提供音乐点唱机功能，可以播放音乐
+- **状态**：✅ 兼容B42
+- **分类**：音频/娱乐
+
+#### 2. [42.13.1] Barrel Fluids Container
+- **作者**：Shram
+- **功能**：允许使用普通桶作为流体存储容器，需要扳手启用
+- **状态**：✅ 兼容B42.13.1
+- **分类**：实用工具/容器
+
+#### 3. Evolving Traits World (ETW) [B41/B42]
+- **作者**：MusicManiac
+- **功能**：替代"Dynamic Traits"的特质进化系统，展示真实角色成长过程
+- **状态**：✅ 兼容B41/B42
+- **分类**：角色成长/系统
+
+#### 4. Replace Bandage [B41, B42]
+- **作者**：Sioyth
+- **功能**：简化更换绷带的过程，一键移除旧绷带并应用新绷带
+- **状态**：✅ 兼容B41/B42
+- **分类**：健康/游戏体验
+
+#### 5. Moodle Framework
+- **作者**：Tchernobill
+- **功能**：为模组开发者提供添加状态情绪的框架
+- **状态**：✅ 兼容B42
+- **分类**：开发工具/框架
+
+#### 6. [b42.13.1]Multiplayer Crafting Fixes
+- **作者**：Jamaican Steve
+- **功能**：修复多人游戏中制作物品选择被忽略的问题
+- **状态**：✅ 兼容B42.13.1
+- **分类**：多人游戏修复
+
+#### 7. DryingRacksFixed B42 MP
+- **作者**：Keyreaper
+- **功能**：修复B42多人游戏中干燥架机制（皮革和植物）的问题
+- **状态**：✅ 兼容B42多人游戏
+- **分类**：多人游戏修复
+
+#### 8. Realistic Dashboard & Gauges [MP] [Beta]
+- **作者**：LonelyDesperate
+- **功能**：为Project Zomboid B41/B42/MP添加逼真的车辆仪表盘
+- **状态**：✅ 兼容B41/B42/多人游戏
+- **分类**：视觉效果/车辆
+
+#### 9. [B42 MP] Teach Knowledge
+- **作者**：Kowalski
+- **功能**：在多人游戏中，技能熟练的生存者可以通过课程向他人传授知识
+- **状态**：✅ 兼容B42多人游戏
+- **分类**：多人游戏/社交互动
+
+#### 10. Ladders!?
+- **作者**：co`
+- **功能**：允许玩家爬梯子，并可以制作自己的梯子
+- **状态**：✅ 兼容B42
+- **分类**：建筑/移动
+
+#### 更多新增模组（共27个）
+- Simple Context Menu Icons - 为上下文菜单添加简单图标
+- Context Menu Icons - 可自定义的上下文菜单图标系统
+- [b42.13.1] Multiplayer Timed Actions Fix [Beta] - 修复多人游戏中的定时动作问题
+- [B42.13] Wallet Fix - 修复B42.13中的钱包问题
+- [B42.13] Key Ring Plus - 增强钥匙环功能
+- [B42.13] Hidden Carry - 允许隐藏携带物品
+- Upgradeable Storage - 升级容器以增加存储容量
+- PRY DOOR ADVANCED v1.4 [B42] - 高级撬门功能，带动画小游戏
+- Expanded Attachments (Build 42) - 扩展可附加到腰带和枪套的物品
+- [B42.13] [SP/MP] Getting Old - 添加年龄系统
+- [B41->B42.13] [SP/MP] Days Until Winter - 显示距离冬季开始的天数
+- Karas Animal Foraging For B42.13 - 添加动物觅食系统
+- Karas Fully Automatic Fishing B42.13 (SP/MP) - 全自动钓鱼系统
+- Evolving Traits World - 42.13+ compatibility patch - 特质进化系统兼容性补丁
+- Replace Bandage 42.13+ compatibility patch - 更换绷带模组兼容性补丁
+- Expanded Attachments 42.13+ compatibility patch - 扩展附件模组兼容性补丁
 
 <br>
 
