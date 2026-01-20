@@ -7,13 +7,13 @@
 
 ## 🎯 项目模组合集
 
-项目的核心参考模组合集为 **[bin^2的B42.13合集](https://steamcommunity.com/sharedfiles/filedetails/?id=3624259825)**，这是一个精心挑选的B42.13.1兼容模组集合，包含66个高质量的模组（59个核心模组，已剔除补丁类依赖项），涵盖了界面增强、本地化、系统功能、游戏机制、角色外观、音频娱乐、修复健康等多个类别。
+项目的核心参考模组合集为 **[bin^2的B42.13合集](https://steamcommunity.com/sharedfiles/filedetails/?id=3624259825)**，这是一个精心挑选的B42.13.1兼容模组集合，包含93个高质量的模组（75+个核心模组，已剔除补丁类依赖项），涵盖了界面增强、本地化、系统功能、游戏机制、角色外观、音频娱乐、修复健康等多个类别。
 
 定期从该合集更新模组信息，确保文档始终反映最新的模组版本和兼容性状态。
 
 **[查看更新日志](./collection/updates.md)** - 记录合集中新增模组和版本变化的详细信息
 
-**最近更新**：2025年12月31日 - 检查了Steam合集信息，模组数量从66个大幅增加到93个（合集总数）/ 75+个（核心模组，已剔除补丁类依赖项），新增了27个模组，包括多人游戏修复、角色进化系统、车辆仪表盘、建筑工具等。更新了模组分类结构，将修复类模组与原模组归类在一起，优化了文档组织结构。
+**最近更新**：2025年1月16日 - 完成了全面的模组更新检查。更新了合集中的模组数量并确认了当前版本兼容性状态。修复了文档中的错误，添加了缺失的Workshop ID，并为需要补丁的模组添加了兼容性提醒。
 ## 📁 目录结构
 - [模组速览](./index.md) - 快速浏览所有收录模组
 
@@ -46,14 +46,14 @@ Akyrohunter创作的一系列高质量的"传说"(Legendary)系列模组，为Pr
 
 | 模组名称 | Workshop ID | 链接 | 类别 | 状态 |
 |---------|------------|------|------|------|
-| Legendary Naginata | 3580577925 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3580577925) | 武器 | ✅ 已更新至B42.13.1 |
+| Legendary Naginata | 3580577925 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3580577925) | 武器 | ✅ 已更新至B42.13.1 (v.1.0.4, 2025年12月15日) |
 | Legendary Tactical Knife | 3575320927 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3575320927) | 武器 | ✅ 已更新至B42.13.1 |
 | Legendary Katana | 3418366499 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3418366499) | 武器 | ✅ 已更新至B42.13.1 |
 | Legendary Satchel | 3560352772 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3560352772) | 背包/容器 | ✅ 已更新至B42.13.1 |
 | Legendary DuffelBag | 3558839307 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3558839307) | 背包/容器 | ✅ 已更新至B42.13.1 |
-| Legendary Fanny Pack | 3552050880 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3552050880) | 背包/容器 | ✅ 已更新至B42.13.1 |
+| Legendary Fanny Pack | 3552050880 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3552050880) | 背包/容器 | ⚠️ 已更新至B42.13.1 (装备后可能不显示在背包栏) |
 | Legendary Backpacks | 3538353228 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3538353228) | 背包/容器 | ✅ 已更新至B42.13.1 |
-| Legendary Cap | 3549294472 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3549294472) | 服装/配饰 | ✅ 已更新至B42.13.1 |
+| Legendary Cap | 3549294472 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3549294472) | 服装/配饰 | ✅ 已更新至B42.13.1 (v.2.0.4, 已添加可安装手电筒功能) |
 
 ### 传说系列特点
 
@@ -73,7 +73,7 @@ Akyrohunter创作的一系列高质量的"传说"(Legendary)系列模组，为Pr
 
 | 模组名称 | Workshop ID | 链接 | 类别 | 状态 |
 |---------|------------|------|------|------|
-| Read While Walking (含B42.13补丁) | 2845952197 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=2845952197) | 实用工具 | ⚠️ B42.13需补丁 |
+| Read While Walking | 2845952197 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=2845952197) | 实用工具 | ⚠️ B42.13需补丁 (补丁ID: 3625232801) |
 | [B42.13] Fruits in jars | 3432006285 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3432006285) | 食物/储藏 | ✅ 兼容B42.13.1 |
 | Fast Forward (MP) - Build 42 | 3623959321 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3623959321) | 时间管理 | ✅ 兼容B42.13.1 |
 
@@ -85,14 +85,14 @@ Akyrohunter创作的一系列高质量的"传说"(Legendary)系列模组，为Pr
 
 | 模组名称 | Workshop ID | 链接 | 类别 | 状态 |
 |---------|------------|------|------|------|
-| [B42]CleanUI V2.3 (含扩展) | 3437629766 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3437629766) | 界面优化 | ✅ 兼容B42.13.1 |
+| [B42]CleanUI V2.3 | 3437629766 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3437629766) | 界面优化 | ✅ 已更新至B42.13.1 (2025年12月22日) |
 | Smart Radial Menu | 3494108029 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3494108029) | 交互优化 | ✅ 兼容B42.13.1 |
 | [B42]Clean HotBar v1.8 | 3461263912 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3461263912) | 快捷栏优化 | ✅ 兼容B42.13.1 |
-| [B42]Neat Crafting V1.5 (含补丁) | 3502080466 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3502080466) | 制作界面 | ⚠️ B42.13需补丁 |
-| [B42]Neat Building + More Buildings V1.4 | 3536052310 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3536052310) | 建造界面 | ✅ 兼容B42.13.1 |
+| [B42]Neat Crafting V1.5 | 3502080466 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3502080466) | 制作界面 | ❌ 已损坏，需使用 "Neat Crafting & Neat Building – XP & Mod Display + B42.13 Fixes" |
+| [B42]Neat Building + More Buildings V1.4 | 3536052310 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3536052310) | 建造界面 | ❌ 已损坏，需使用 "Neat Crafting & Neat Building – XP & Mod Display + B42.13 Fixes" |
 | [B42]Project Cook (New)V1.0 | 3490188370 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3490188370) | 烹饪界面 | ✅ 兼容B42.13.1 |
 | [B42]ModernStatus V2.0 | 3451167732 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3451167732) | 状态指示器 | ✅ 兼容B42.13.1 |
-| Neat Crafting & Neat Building - Addon XP Display | 3540503606 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3540503606) | 经验值显示 | ✅ 兼容B42.13.1 |
+| Neat Crafting & Neat Building - Addon XP Display | 3540503606 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3540503606) | 经验值显示 | ✅ 兼容B42.13.1 (包含B42.13修复补丁) |
 | [b42]The Shortcut | 3470659758 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3470659758) | 快捷工具栏 | ✅ 兼容B42.13.1 |
 | Eat whole stack | 3617669428 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3617669428) | 食物交互 | ✅ 兼容B42.13.1 |
 | [B41/42] Known And Collected | 待提供 | [链接待补充] | 收藏管理 | ⚠️ B42.13需补丁 |
@@ -105,9 +105,9 @@ Akyrohunter创作的一系列高质量的"传说"(Legendary)系列模组，为Pr
 
 | 模组名称 | Workshop ID | 链接 | 类别 | 状态 |
 |---------|------------|------|------|------|
-| [B42]ShelterHold : Beehive (含B42.13补丁) | 3596827035 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3596827035) | 蜜蜂养殖 | ⚠️ B42.13需补丁 |
-| [B42]舌尖上的中国 | (待提供) | [链接待补充] | 食物/农业 | ✅ 兼容B42.13.1 |
-| More Mre&Millitary foodV3 | (待提供) | [链接待补充] | 食物 | ✅ 兼容B42.13.1 |
+| [B42]ShelterHold : Beehive | 3596827035 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3596827035) | 蜜蜂养殖 | ⚠️ B42.13需补丁 (补丁ID: 3625028417) |
+| [B42]舌尖上的中国 | 3508537032 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3508537032) | 食物/农业 | ✅ 兼容B42.13.1 |
+| More Mre&Millitary foodV3 | 2872282653 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=2872282653) | 食物 | ✅ 兼容B42.13.1 |
 
 [查看更多农业/生物类模组](./farming/README.md)
 
@@ -117,7 +117,6 @@ Akyrohunter创作的一系列高质量的"传说"(Legendary)系列模组，为Pr
 
 | 模组名称 | Workshop ID | 链接 | 类别 | 状态 |
 |---------|------------|------|------|------|
-
 | B42简体中文修复 | 3386522562 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3386522562) | 中文本地化 | ✅ 兼容B42.13.1 |
 | [B42]统一·中文汉化 | 3556544454 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3556544454) | 中文本地化 | ✅ 兼容B42.13.1 |
 | [B42]统一·模组汉化 | 3556540080 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3556540080) | 模组本地化 | ✅ 兼容B42.13.1 |
@@ -140,8 +139,9 @@ Akyrohunter创作的一系列高质量的"传说"(Legendary)系列模组，为Pr
 
 | 模组名称 | Workshop ID | 链接 | 类别 | 状态 |
 |---------|------------|------|------|------|
-| True Music Radio B42 MP+ | 2948224756 | [链接待补充] | 音乐电台 | ✅ 兼容B42多人游戏 |
+| True Music Radio B42 MP+ | 2948224756 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=2948224756) | 音乐电台 | ✅ 兼容B42多人游戏 |
 | True Music CN | 2957823594 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=2957823594) | 中文音乐 | ✅ 兼容B42 |
+| True Music Jukebox B42 | 待补充 | [链接待补充] | 音乐点唱机 | ✅ 兼容B42 |
 
 [查看更多音频和娱乐类模组](./audio-and-entertainment/README.md)
 
@@ -242,4 +242,16 @@ project-zomboid-mods/
         └── README.md
 ```
 
-*最后更新：2025年1月7日*
+*最后更新：2025年1月16日*
+
+## ⚠️ 重要兼容性提醒
+
+1. **多人游戏设置**：多个多人游戏修复模组需要服务器设置 `DoLuaChecksum=false` 在 .ini 文件中
+2. **损坏的模组**：一些原版模组在B42.13中已损坏，需要使用社区制作的修复版本：
+   - Neat Crafting V1.5 → 需使用 "Neat Crafting & Neat Building – XP & Mod Display + B42.13 Fixes" (3540503606)
+   - Neat Building V1.4 → 需使用 "Neat Crafting & Neat Building – XP & Mod Display + B42.13 Fixes" (3540503606)
+3. **补丁依赖**：以下模组需要额外的B42.13兼容性补丁：
+   - Read While Walking (2845952197) + Simple Read While Walking 42.13+ compatibility patch (3625232801)
+   - ShelterHold : Beehive (3596827035) + ShelterHold : Beehive Patch for B42.13 (3625028417)
+4. **加载顺序**：补丁类模组应在原模组之后加载
+5. **测试版提醒**：标记为[Beta]或[测试版]的模组可能不稳定，建议在备份存档后使用

@@ -23,7 +23,8 @@
 
 | 模组名称 | Workshop ID | 链接 | Mod ID | 版本 | 状态 |
 |---------|------------|------|--------|------|------|
-| [B42]CleanUI V2.3 | 3437629766 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3437629766) | CleanUI | V2.3 | ✅ 兼容B42.13.1 |
+| [B42]CleanUI V2.3 | 3437629766 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3437629766) | CleanUI | V2.3 | ✅ 已更新至B42.13.1 (2025年12月22日) |
+| [B42]NeatUI Framework | 3508537032 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3508537032) | NeatUI_Framework | - | ✅ 兼容B42.13.1 (CleanUI依赖项) |
 | [OBSOLETE] CleanUI Patch for B42.13 | 3623352001 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3623352001) | CleanUI_B42_13 | - | ❌ 已过时，会导致崩溃 |
 | Clean UI Menu Support | 待提供 | [链接待补充] | CleanUIMenuSupport | - | ✅ 兼容B42.13 |
 
@@ -129,8 +130,8 @@
 
 | 模组名称 | Workshop ID | 链接 | Mod ID | 版本 | 状态 |
 |---------|------------|------|--------|------|------|
-| [B42]Neat Crafting V1.5 | 3502080466 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3502080466) | Neat_Crafting | V1.5 | ⚠️ B42.13需要补丁 |
-| Neat Crafting Patch for B42.13 | 3623287625 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3623287625) | Neat_Crafting_B42_13 | - | ✅ 兼容B42.13 |
+| [Broken] Neat Crafting V1.5 | 3502080466 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3502080466) | Neat_Crafting | V1.5 | ❌ 已损坏，B42.13不兼容 |
+| Neat Crafting & Neat Building - XP & Mod Display + B42.13 Fixes | 3540503606 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3540503606) | NeatCraftingBuildingXPDisplay | - | ✅ 替代方案，包含B42.13修复 |
 
 **模组详情**
 
@@ -159,7 +160,8 @@
 
 | 模组名称 | Workshop ID | 链接 | Mod ID | 版本 | 状态 |
 |---------|------------|------|--------|------|------|
-| [B42]Neat Building + More Buildings V1.4 | 3536052310 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3536052310) | Neat_Building | V1.4 | ⚠️ B42.13需要补丁 |
+| [Broken] Neat Building + More Buildings V1.4 | 3536052310 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3536052310) | Neat_Building | V1.4 | ❌ 已损坏，B42.13不兼容 |
+| Neat Crafting & Neat Building - XP & Mod Display + B42.13 Fixes | 3540503606 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3540503606) | NeatCraftingBuildingXPDisplay | - | ✅ 替代方案，包含B42.13修复 |
 
 **模组详情**
 

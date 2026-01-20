@@ -18,8 +18,8 @@
 
 | 模组名称 | Workshop ID | 链接 | Mod ID | 版本 | 状态 |
 |---------|------------|------|--------|------|------|
-| [B42]ShelterHold : Beehive | 3596827035 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3596827035) | ShelterHold_Beehive | - | ⚠️ B42.13需要补丁 |
-| ShelterHold : Beehive Patch for B42.13 | 3625028417 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3625028417) | ShelterHold_Beehive_B42_13 | - | ✅ 兼容B42.13 |
+| [B42]ShelterHold : Beehive (需要补丁) | 3596827035 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3596827035) | ShelterHold_Beehive | - | ⚠️ B42.13需要补丁 |
+| ShelterHold : Beehive Patch for B42.13 | 3625028417 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3625028417) | ShelterHold_Beehive_B42_13 | - | ✅ 兼容B42.13 (与原模组一起使用) |
 
 **模组详情**
 

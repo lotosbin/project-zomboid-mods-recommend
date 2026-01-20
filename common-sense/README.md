@@ -60,8 +60,8 @@
 
 | 模组名称 | Workshop ID | 链接 | Mod ID | 版本 | 状态 |
 |---------|------------|------|--------|------|------|
-| Read While Walking | 2845952197 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=2845952197) | SimpleReadWhileWalking | B41/B42 | ⚠️ B42.13有问题 |
-| Simple Read While Walking 42.13+ compatibility patch | 3625232801 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3625232801) | - | - | ✅ 兼容B42.13 |
+| Read While Walking (已损坏) | 2845952197 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=2845952197) | SimpleReadWhileWalking | B41/B42 | ❌ 在B42.13中已损坏，需使用补丁 |
+| Simple Read While Walking 42.13+ compatibility patch | 3625232801 | [链接](https://steamcommunity.com/sharedfiles/filedetails/?id=3625232801) | - | - | ✅ 兼容B42.13 (与原模组一起使用) |
 
 **原版模组详情**
 
@@ -116,6 +116,9 @@
 
 **原版模组参考**：
 [Fast Forward (MP)](https://steamcommunity.com/sharedfiles/filedetails/?id=2968318536) (不再维护的Build 41版本)
+
+**注意事项**：
+多人游戏使用CookingSync - Multiplayer Cooking Fix时，建议同时安装此模组，因为某些多人游戏服务器可能与快进功能存在兼容性问题。
 
 **模组详情**
 
