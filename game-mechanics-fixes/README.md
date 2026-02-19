@@ -2,7 +2,18 @@
 
 ```# 游戏机制修复类模组
 
-本分类包含修复Project Zomboid游戏机制问题的模组，解决原版游戏中的错误和不便之处，提供更流畅的游戏体验。
+本分类包含修复Project Zomboid游戏机制问题的模组，解决原版游戏中的错误和不便之处，提供更流畅的游戏体验。基于bin^2的B42.13合集，包含9个游戏机制修复类模组，涵盖多人烹饪修复、衣物撕裂、多人游戏修复、定时动作修复、知识传授等方面。
+
+## 合集中的游戏机制修复模组
+
+根据bin^2的B42.13合集，包含以下游戏机制修复类模组：
+
+- [b42.13.1]Multiplayer Crafting Fixes - 修复多人游戏中制作物品选择被忽略的问题
+- DryingRacksFixed B42 MP - 修复B42多人游戏中干燥架机制的问题
+- [b42.13.1] Multiplayer Timed Actions Fix [Beta] - 修复多人游戏中的定时动作问题
+- [B42 MP] Teach Knowledge - 允许技能熟练的生存者向他人传授知识
+- CookingSync - Multiplayer Cooking Fix [v5.0] - 修复多人游戏中的烹饪同步错误
+- Rip All Clothes - 修复衣物撕裂机制
 
 ## 模组列表
 

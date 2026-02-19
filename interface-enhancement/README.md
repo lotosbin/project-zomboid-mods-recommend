@@ -1,6 +1,6 @@
 # 界面增强类模组
 
-这些模组专注于改进Project Zomboid的用户界面(UI)和交互体验，通过重新设计或添加新功能使游戏界面更加直观、高效和美观。其中包括兼容性补丁，确保这些界面增强模组在最新游戏版本中正常工作。
+这些模组专注于改进Project Zomboid的用户界面(UI)和交互体验，通过重新设计或添加新功能使游戏界面更加直观、高效和美观。基于bin^2的B42.13合集，包含15个界面增强类模组，涵盖UI重设计、交互优化、状态显示、食物交互、技能追踪、收藏管理、装备界面、嵌套容器、服务器设置等多个方面。
 
 ## 界面增强类模组特点
 
@@ -13,6 +13,28 @@
 5. **定制选项**：允许玩家自定义界面布局和显示选项
 6. **控制器支持**：增强手柄和Steam Deck的使用体验
 7. **兼容性维护**：提供B42.13等新游戏版本的兼容性补丁
+
+## 合集中的界面增强模组
+
+根据bin^2的B42.13合集，包含以下界面增强类模组：
+
+- [B42]ModernStatus V2.0
+- [B42]CleanUI V2.2
+- [B42]Clean HotBar v1.8
+- [B42]NeatUI Framework
+- [B42]Neat Crafting V1.5
+- [B42]Neat Building + More Buildings V1.4
+- [b42]The Shortcut
+- Smart Radial Menu
+- Eat whole stack
+- [B42.13] SimpleStatus-Fixed
+- [B41/42] Known And Collected
+- Quick Skill Tracker
+- Equipment UI - Paper Doll Equipment Interface [B42/41]
+- [B42] Nested Containers
+- Better Server Settings
+- Simple Context Menu Icons
+- Context Menu Icons
 
 ## 兼容性补丁
 

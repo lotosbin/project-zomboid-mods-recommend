@@ -8,7 +8,33 @@
 
 ## 🎯 项目模组合集
 
-项目的核心参考模组合集为 **[bin^2的B42.13.2合集](https://steamcommunity.com/sharedfiles/filedetails/?id=3624259825)**，这是一个精心挑选的B42.13.1兼容模组集合，包含101个高质量的模组（75+个核心模组，已剔除补丁类依赖项），涵盖了界面增强、本地化、系统功能、游戏机制、角色外观、音频娱乐、修复健康等多个类别。
+项目的核心参考模组合集为 **[bin^2的B42.13合集](https://steamcommunity.com/sharedfiles/filedetails/?id=3624259825)**，这是一个精心挑选的B42.13.1兼容模组集合，包含101个高质量的模组（85+个核心模组，已剔除补丁类依赖项），涵盖了界面增强、本地化、系统功能、游戏机制、角色外观、音频娱乐、修复健康等多个类别。
+
+### 合集分类概览
+
+该合集包含以下类别的模组（新增类别用*标记）：
+
+- **界面增强类模组** (15个) - UI重设计、交互优化、状态显示、食物交互、技能追踪、收藏管理、装备界面、嵌套容器、服务器设置
+- **本地化类模组** (8个) - 中文翻译、语言支持、电台电视汉化、模组汉化
+- **游戏信息增强类模组** (5个) - 问题修复、UI优化、原料管理、游戏信息、状态条
+- **控制器支持模组** (1个) - 手柄适配、Steam Deck兼容
+- **实用工具模组** (4个) - 统一修复、UI组件
+- **游戏体验优化类模组** (5个) - 装备管理、自动裁缝、游戏机制、烹饪、时间控制
+- **生存和环境类模组** (6个) - 睡眠系统、环境视觉效果、地图模组、出生点
+- **系统功能类模组** (7个) - 建筑系统、模组管理、自动裁缝、纹理优化、容器管理
+- **食物和文化类模组** (2个) - 中式美食、军用食品
+- **角色/外观类模组** (1个) - 角色体型变化
+- **其他/工具类模组** (5个) - 错误报告工具、僵尸定制、音效增强、更新检查器
+- **音频和娱乐类模组** (4个) - 音乐电台、中文音乐、音乐点唱机
+- **游戏机制修复类模组** (9个) - 多人烹饪修复、衣物撕裂、多人游戏修复、定时动作修复、知识传授
+- **角色外观和进化类模组** (3个) - 角色体型变化、特质进化系统、年龄系统
+- **容器和存储类模组** (2个) - 流体存储容器、可升级存储
+- **车辆和交通类模组** (1个) - 车辆仪表盘
+- **建筑和工具类模组** (2个) - 梯子系统、高级撬门
+- **附件和携带类模组** (4个) - 扩展附件、钱包、钥匙环、隐藏携带
+- **自然和动物类模组** (2个) - 动物觅食、自动钓鱼
+- **健康系统类模组** (2个) - 疾病系统增强、绷带更换
+- **开发框架类模组** (1个) - 状态情绪框架
 
 定期从该合集更新模组信息，确保文档始终反映最新的模组版本和兼容性状态。
 
@@ -23,18 +49,18 @@
   - [背包和容器类模组](./legendary-series/containers/README.md)
   - [服装/配饰类模组](./legendary-series/clothing/README.md)
 - [常识类模组](./common-sense/README.md) - 提高游戏体验的常识/生活质量模组
-- [界面增强类模组](./interface-enhancement/README.md) - UI/UX改进和优化模组
+- [界面增强类模组](./interface-enhancement/README.md) - UI重设计、交互优化、状态显示、嵌套容器等
 - [农业/生物类模组](./farming/README.md) - 农业、养殖和生物资源管理模组
 - [本地化和修复类模组](./localization-and-patches/README.md) - 语言本地化、兼容性补丁和问题修复
 - [其他类模组](./other/README.md) - 不属于特定类别的各种实用功能模组
 - [TODO: 待测试模组](./todo/README.md) - 计划测试和评估的热门Build 42模组列表
-- [生存和环境类模组](./survival-environment/README.md) - 睡眠系统、环境视觉效果等生存体验增强模组
-- [系统功能类模组](./system-features/README.md) - 建筑系统、模组管理、自动裁缝等系统级功能模组
-- [角色/外观类模组](./character-appearance/README.md) - 角色体型变化、外观定制等视觉定制模组
-- [音频和娱乐类模组](./audio-and-entertainment/README.md) - 音乐电台、音频增强等娱乐模组
-- [游戏机制修复类模组](./game-mechanics-fixes/README.md) - 修复游戏机制问题的优化模组
-- [健康系统类模组](./health-system/README.md) - 疾病系统和健康机制增强模组
-- [项目模组合集](./collection/README.md) - 核心参考的B42.13.1模组合集
+- [生存和环境类模组](./survival-environment/README.md) - 睡眠系统、环境视觉效果、冬季倒计时等
+- [系统功能类模组](./system-features/README.md) - 建筑系统、模组管理、自动裁缝等系统级功能
+- [角色/外观类模组](./character-appearance/README.md) - 角色体型变化、特质进化、年龄系统等
+- [音频和娱乐类模组](./audio-and-entertainment/README.md) - 音乐电台、中文音乐、音乐点唱机
+- [游戏机制修复类模组](./game-mechanics-fixes/README.md) - 多人烹饪、衣物撕裂、定时动作修复等
+- [健康系统类模组](./health-system/README.md) - 疾病系统增强、绷带更换等
+- [项目模组合集](./collection/README.md) - 核心参考的B42.13模组合集
 - [模组使用指南](./mods.md) - 如何订阅和使用这些模组
 - [模组依赖关系](./mod-dependencies.md) - 详细的模组依赖分析和加载顺序
 - [模组依赖关系图](./mod-dependencies-graph.md) - 可视化的模组依赖关系图
@@ -207,7 +233,7 @@ project-zomboid-mods/
 ├── common-sense/              # 常识类模组
 │   └── README.md              # 贴合现实的改进和修复
 ├── interface-enhancement/     # 界面增强类模组
-│   └── README.md              # UI/UX改进和优化
+│   └── README.md              # UI重设计、交互优化、状态显示、嵌套容器等
 ├── farming/                   # 农业/生物类模组
 │   └── README.md              # 农业、养殖和生物资源管理
 ├── localization-and-patches/  # 本地化和修复类模组
@@ -217,17 +243,17 @@ project-zomboid-mods/
 ├── todo/                      # 待测试模组列表
 │   └── README.md              # 计划测试和评估的热门Build 42模组列表
 ├── survival-environment/      # 生存和环境类模组
-│   └── README.md              # 睡眠系统、环境视觉效果等生存体验增强模组
+│   └── README.md              # 睡眠系统、环境视觉效果、冬季倒计时等
 ├── system-features/           # 系统功能类模组
-│   └── README.md              # 建筑系统、模组管理、自动裁缝等系统级功能模组
+│   └── README.md              # 建筑系统、模组管理、自动裁缝等系统级功能
 ├── character-appearance/      # 角色/外观类模组
-│   └── README.md              # 角色体型变化、外观定制等视觉定制模组
+│   └── README.md              # 角色体型变化、特质进化、年龄系统等
 ├── audio-and-entertainment/   # 音频和娱乐类模组
-│   └── README.md              # 音乐电台、音频增强等娱乐模组
+│   └── README.md              # 音乐电台、中文音乐、音乐点唱机
 ├── game-mechanics-fixes/      # 游戏机制修复类模组
-│   └── README.md              # 修复游戏机制问题的优化模组
+│   └── README.md              # 多人烹饪、衣物撕裂、定时动作修复等
 ├── health-system/             # 健康系统类模组
-│   └── README.md              # 疾病系统和健康机制增强模组
+│   └── README.md              # 疾病系统增强、绷带更换等
 ├── mod-dependencies.md        # 模组依赖关系分析
 ├── mod-dependencies-graph.md  # 模组依赖关系可视化图表
 ├── collection/                # 模组合集
