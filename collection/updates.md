@@ -1,6 +1,6 @@
-## bin^2的B42.13合集更新日志
+## bin^2的B42.14.1合集更新日志
 
-本文档记录了核心参考模组合集 **[bin^2的B42.13合集](https://steamcommunity.com/sharedfiles/filedetails/?id=3624259825)** 的更新情况。
+本文档记录了核心参考模组合集 **[bin^2的B42.14.1合集](https://steamcommunity.com/sharedfiles/filedetails/?id=3624259825)** 的更新情况。
 
 ### 合集信息
 - **作者**：bin^2
