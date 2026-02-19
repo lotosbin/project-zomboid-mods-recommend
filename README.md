@@ -61,6 +61,7 @@
 - [游戏机制修复类模组](./game-mechanics-fixes/README.md) - 多人烹饪、衣物撕裂、定时动作修复等
 - [健康系统类模组](./health-system/README.md) - 疾病系统增强、绷带更换等
 - [项目模组合集](./collection/README.md) - 核心参考的B42.13模组合集，兼容B42.14.1
+- [B42.14.1兼容性报告](./collection/b42-14-1-compatibility.md) - 详细兼容性分析和升级建议
 - [模组使用指南](./mods.md) - 如何订阅和使用这些模组
 - [模组依赖关系](./mod-dependencies.md) - 详细的模组依赖分析和加载顺序
 - [模组依赖关系图](./mod-dependencies-graph.md) - 可视化的模组依赖关系图
@@ -260,7 +261,8 @@ project-zomboid-mods/
 ├── mod-dependencies-graph.md  # 模组依赖关系可视化图表
 ├── collection/                # 模组合集
 │   ├── README.md              # 核心参考的B42.13模组合集
-│   └── updates.md             # 合集更新日志
+│   ├── updates.md             # 合集更新日志
+│   └── b42-14-1-compatibility.md # B42.14.1兼容性报告
 └── legendary-series/          # 传说系列模组文档
     ├── README.md              # 传说系列主页
     ├── weapons/               # 武器类模组
