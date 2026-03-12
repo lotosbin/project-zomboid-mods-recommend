@@ -4,10 +4,52 @@
 
 ### 合集信息
 - **作者**：bin^2
-- **模组数量**：101个（合集总数）/ 85+个（核心模组，已剔除补丁类依赖项）
-- **适用版本**：Project Zomboid Build 42.14.1
-- **最后更新**：2025年1月11日（当前检查：2026年1月28日）
-- **订阅量**：持续增长中
+- **模组数量**：123个（合集总数）/ 80+个（核心模组）
+- **适用版本**：Project Zomboid Build 42.13/42.13.1/42.14/42.15
+
+---
+
+## [2026-03-12] - 全面模组数量更新
+
+### 新增模组
+- **ModernFirearmsSystem 42.14&42.13** - 现代武器系统（需放在加载顺序最底部）
+- **RadarZ** - 僵尸雷达，在所有游戏模式下可用
+- **Rollerblades** - 旱冰鞋模组，带地形速度机制和技能进度
+- **Legion Weaponry** - 军团武器包
+- **Campers!** - 露营装备和帐篷
+- **Architect** - 蓝图系统，建筑辅助工具
+- **ERS - Small Producers Pack** - 小型可再生能源生产者包
+- **Dynamic Moodles** - 动态心情图标系统
+- **Reactive Sound Events** - 反应式声音事件系统
+- **Fruit Tree Chop** - 果树砍伐增强
+- **Extended Categories (B42)** - 扩展分类系统
+- **Extensive Power Rework B42** - 电力系统重做
+- **Proximity Inventory [B42]** - 附近库存查看
+- **Skill Recovery Journal Reminder** - 技能恢复日志提醒
+- **Fruits in jars** - 罐装水果
+- **Common Sense Patch [B42.13+]** - 常识模组兼容性补丁
+- **Welcome Message Begone** - 移除欢迎消息
+- **dustinguished bolt cutters** - 螺栓剪增强
+- **Lingering Voices CN** - 僵尸台词中文化补丁
+- **True Music Radio B42** - 音乐电台多人模式
+- **True Music Jukebox B42** - 音乐点唱机
+- **Legendary Katana Wakizashi** - 传说武士刀和胁差
+- **Legendary Professions and Traits** - 传说职业和特质
+
+### 变更统计
+- 上次检查：101个模组
+- 本次检查：123个模组
+- 新增数量：22个模组
+
+### 兼容性更新
+- 多个模组已更新支持 B42.14 和 B42.15 版本
+- 部分模组标记为已废弃（如 Clean UI Compat Patch）
+- 新增 B42.15 兼容性修复补丁
+
+### 文档更新
+- 更新了主README.md中的模组数量和状态
+- 更新了合集README中的详细信息
+- 添加了新增模组的分类信息
 
 ---
 

@@ -1,0 +1,94 @@
+# Update Mods From Collection SOP
+
+## Purpose
+This SOP describes the procedure for updating all mods from the bin^2 B42.13 collection in the project-zomboid-mods repository.
+
+## Preconditions
+- User has internet access to fetch Steam Workshop data
+- User has write access to the project-zomboid-mods repository
+- Current working directory is the project-zomboid-mods folder
+
+## Procedure
+
+### Step 1: Fetch Collection Data
+```
+IF WebFetch is available THEN
+    Navigate to "https://steamcommunity.com/sharedfiles/filedetails/?id=3624259825"
+    Extract the complete list of mods from the collection page
+    COUNT the total number of mods in the collection
+    SAVE the mod list for comparison
+ELSE
+    Display "WebFetch tool not available - cannot proceed"
+    EXIT the procedure
+END
+```
+
+### Step 2: Compare with Current Records
+```
+OPEN "collection/README.md"
+READ the current mod count from the file
+IF current_count < fetched_count THEN
+    CALCULATE difference = fetched_count - current_count
+    DISPLAY "New mods detected: " + difference
+    IDENTIFY the new mods from the fetched list
+ELSE
+    DISPLAY "No new mods found"
+END
+```
+
+### Step 3: Update Collection README
+```
+IF new mods exist THEN
+    FOR EACH new mod in new_mods DO
+        ADD the mod to the appropriate category in collection/README.md
+    END
+END
+
+EDIT "collection/README.md"
+    REPLACE old version number with new version number
+    REPLACE old mod count with new mod count
+    REPLACE old date with current date
+END
+```
+
+### Step 4: Update Main README
+```
+EDIT "README.md"
+    REPLACE "模组数量（XXX个" with new count
+    REPLACE "最近更新：XXXX年X月X日" with current date
+END
+```
+
+### Step 5: Update Changelog
+```
+OPEN "collection/updates.md"
+IF file contains "## [YYYY-MM-DD]" for today THEN
+    APPEND new mods to the existing section
+ELSE
+    CREATE new section "## [current_date]"
+    ADD new mods list to the new section
+END
+```
+
+### Step 6: Commit Changes
+```
+IF user requests commit THEN
+    RUN "git status" to see all changed files
+    RUN "git diff" to review changes
+    ADD relevant files to staging
+    CREATE commit with message describing the update
+END
+```
+
+## Postconditions
+- All documentation files reflect the current state of the collection
+- Changes are ready to be committed (if requested)
+
+## Example Output
+```
+Fetching collection data from Steam Workshop...
+Found 123 mods in collection (previously 101)
+22 new mods detected
+Updating documentation files...
+Update complete!
+```

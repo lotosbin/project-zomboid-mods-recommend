@@ -7,10 +7,10 @@
 ### 合集信息
 - **名称**：bin^2的B42.13合集
 - **作者**：bin^2
-- **模组数量**：101个（合集总数）/ 待分类（核心模组，已剔除补丁类依赖项）
+- **模组数量**：123个（合集总数）/ 80+个（核心模组，已剔除补丁类依赖项）
 - **创作者**：多个 talented modders（喵了个球、Chuckleberry Finn、Rezistor、Rocco、Speedy Von Gofast、As1 Project、Afyrmo、Tchernobill、Akyrohunter、ardernord、Phoenix、Notloc、Nikku Miru、Revan等）
-- **适用版本**：Project Zomboid Build 42.14.1
-- **最后更新**：2025年1月11日（当前检查：2026年1月28日）
+- **适用版本**：Project Zomboid Build 42.13/42.13.1/42.14/42.15
+- **最后更新**：2026年3月（当前检查：2026年3月12日）
 - **订阅量**：持续增长中
 
 ### 合集分类概览
@@ -160,6 +160,26 @@
 #### 开发框架类模组 (新增)
 - Moodle Framework - 为模组开发者提供添加状态情绪的框架
 
+#### 新增高级模组 (2026年)
+- **ModernFirearmsSystem 42.14&42.13** - 现代武器系统（需放在加载顺序最底部）
+- **RadarZ** - 僵尸雷达，在所有游戏模式下可用
+- **Rollerblades** - 旱冰鞋模组，带地形速度机制
+- **Legion Weaponry** - 军团武器包
+- **Campers!** - 露营装备
+- **Architect** - 蓝图系统，建筑辅助工具
+- **ERS - Small Producers Pack** - 小型生产者包
+- **Dynamic Moodles** - 动态心情图标
+- **Reactive Sound Events** - 反应式声音事件系统
+- **Fruit Tree Chop** - 果树砍伐增强
+- **Extended Categories (B42)** - 扩展分类系统
+- **Extensive Power Rework B42** - 电力系统重做
+- **Proximity Inventory [B42]** - 附近库存查看
+- **Skill Recovery Journal Reminder** - 技能恢复日志提醒
+- **Fruits in jars** - 罐装水果
+- **Common Sense Patch [B42.13+]** - 常识模组兼容性补丁
+- **Welcome Message Begone** - 移除欢迎消息
+- **dustinguished bolt cutters** - 螺栓剪增强
+
 ### 模组总览
 
 | 类别 | 数量 | 主要功能 |
@@ -188,7 +208,7 @@
 | **生存和环境类** | 7 | 睡眠系统、环境视觉效果、地图模组、出生点、冬季倒计时 |
 | **健康系统类** | 2 | 疾病系统增强、绷带更换 |
 | **开发框架类** | 1 | 状态情绪框架 |
-| **总计** | **85+** | **剔除补丁类依赖项后的核心模组（待完全分类）** |
+| **总计** | **123** | **剔除补丁类依赖项后的核心模组（80+个）** |
 
 ### 模组加载顺序建议
 
