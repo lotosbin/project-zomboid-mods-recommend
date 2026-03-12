@@ -2,7 +2,7 @@
 
 ## 📚 项目概述
 
-本指南旨在帮助您了解如何订阅、安装和使用 Project Zomboid 模组。我们的项目收集整理了各种优质模组信息，特别基于 **[bin^2的B42.13合集](https://steamcommunity.com/sharedfiles/filedetails/?id=3624259825)**，为您的僵尸末日生存体验增添更多乐趣。
+本指南旨在帮助您了解如何订阅、安装和使用 Project Zomboid 模组。我们的项目收集整理了各种优质模组信息，特别基于 **[bin^2的B42.15.2合集](https://steamcommunity.com/sharedfiles/filedetails/?id=3624259825)**，为您的僵尸末日生存体验增添更多乐趣。
 
 ## 🚀 快速入门
 

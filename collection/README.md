@@ -1,15 +1,15 @@
 # 项目模组合集
 
-## bin^2的B42.13合集
+## bin^2的B42.15.2合集
 
-本项目的核心参考模组合集为 **[bin^2的B42.13合集](https://steamcommunity.com/sharedfiles/filedetails/?id=3624259825)**，这是一个精心挑选的B42.13兼容模组集合，为玩家提供全面的游戏体验增强。
+本项目的核心参考模组合集为 **[bin^2的B42.15.2合集](https://steamcommunity.com/sharedfiles/filedetails/?id=3624259825)**，这是一个精心挑选的B42.15.2兼容模组集合，为玩家提供全面的游戏体验增强。
 
 ### 合集信息
-- **名称**：bin^2的B42.13合集
+- **名称**：bin^2的B42.15.2合集
 - **作者**：bin^2
 - **模组数量**：123个（合集总数）/ 80+个（核心模组，已剔除补丁类依赖项）
 - **创作者**：多个 talented modders（喵了个球、Chuckleberry Finn、Rezistor、Rocco、Speedy Von Gofast、As1 Project、Afyrmo、Tchernobill、Akyrohunter、ardernord、Phoenix、Notloc、Nikku Miru、Revan等）
-- **适用版本**：Project Zomboid Build 42.13/42.13.1/42.14/42.15
+- **适用版本**：Project Zomboid Build 42.15.2
 - **最后更新**：2026年3月（当前检查：2026年3月12日）
 - **订阅量**：持续增长中
 
